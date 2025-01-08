@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2020" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1730" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,52 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">subscan-explorer/polkametrics.page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3097c25</div>
+                                        <div class="message">2025-01-06
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 03:39:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">subscan-explorer/polkametrics.page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3a1e6f9</div>
+                                        <div class="message">2025-01-06
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 03:39:24</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -625,388 +671,6 @@ Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">7 Jan 2025, 06:50:29</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">aurexav/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b6c70b</div>
-                                        <div class="message">Fix typos (#7027)
-
-Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#568231a</div>
-                                        <div class="message">[core-fellowship] Add permissionless import_member (#7030)
-
-Changes:
-- Add call `import_member` to the core-fellowship pallet.
-- Move common logic between `import` and `import_member` into
-`do_import`.
-
-## `import_member`
-
-Can be used to induct an arbitrary collective member and is callable by
-any signed origin. Pays no fees upon success.
-This is useful in the case that members did not induct themselves and
-are idling on their rank.
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dcff3d</div>
-                                        <div class="message">Avoid incomplete block import pipeline with full verifying import queue (#7050)
-
-## Problem
-In the parachain template we use the [fully verifying import queue
-
-](https://github.com/paritytech/polkadot-sdk/blob/3d9eddbeb262277c79f2b93b9efb5af95a3a35a8/cumulus/client/consensus/aura/src/equivocation_import_queue.rs#L224-L224)
-which does extra equivocation checks.
-
-However, when we import a warp synced block with state, we don't set a
-fork choice, leading to an incomplete block import pipeline and error
-here:
-https://github.com/paritytech/polkadot-sdk/blob/3d9eddbeb262277c79f2b93b9efb5af95a3a35a8/substrate/client/service/src/client/client.rs#L488-L488
-
-This renders warp sync useless for chains using this import queue.
-
-## Fix
-The fix is to always import a block with state as best block, as we
-already do in the normal Aura Verifier.
-In a follow up we should also take another look into unifying the usage
-of the different import queues.
-
-fixes https://github.com/paritytech/project-mythical/issues/256
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffa90d0</div>
-                                        <div class="message">fix chunk fetching network compatibility zombienet test (#6988)
-
-Fix this zombienet test
-
-It was failing because in
-https://github.com/paritytech/polkadot-sdk/pull/6452 I enabled the v2
-receipts for testnet genesis,
-so the collators started sending v2 receipts with zeroed collator
-signatures to old validators that were still checking those signatures
-(which lead to disputes, since new validators considered the candidates
-valid).
-
-The fix is to also use an old image for collators, so that we don't
-create v2 receipts.
-
-We cannot remove this test yet because collators also perform chunk
-recovery, so until all collators are upgraded, we need to maintain this
-compatibility with the old protocol version (which is also why
-systematic recovery was not yet enabled)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eca764</div>
-                                        <div class="message">chore: delete repeat words (#7034)
-
-Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d2130c</div>
-                                        <div class="message">Print taplo version in CI (#7041)
-
-I can't find taplo version in the log, and current version is
-incompatible with latest version.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63c73bf</div>
-                                        <div class="message">Implement cumulus StorageWeightReclaim as wrapping transaction extension + frame system ReclaimWeight (#6140)
-
-(rebasing of https://github.com/paritytech/polkadot-sdk/pull/5234)
-
-## Issues:
-
-* Transaction extensions have weights and refund weight. So the
-reclaiming of unused weight must happen last in the transaction
-extension pipeline. Currently it is inside `CheckWeight`.
-* cumulus storage weight reclaim transaction extension misses the proof
-size of logic happening prior to itself.
-
-## Done:
-
-* a new storage `ExtrinsicWeightReclaimed` in frame-system. Any logic
-which attempts to do some reclaim must use this storage to avoid double
-reclaim.
-* a new function `reclaim_weight` in frame-system pallet: info and post
-info in arguments, read the already reclaimed weight, calculate the new
-unused weight from info and post info. do the more accurate reclaim if
-higher.
-* `CheckWeight` is unchanged and still reclaim the weight in post
-dispatch
-* `ReclaimWeight` is a new transaction extension in frame system. For
-solo chains it must be used last in the transactino extension pipeline.
-It does the final most accurate reclaim
-* `StorageWeightReclaim` is moved from cumulus primitives into its own
-pallet (in order to define benchmark) and is changed into a wrapping
-transaction extension.
-It does the recording of proof size and does the reclaim using this
-recording and the info and post info. So parachains don't need to use
-`ReclaimWeight`. But also if they use it, there is no bug.
-
-    ```rust
-  /// The TransactionExtension to the basic transaction logic.
-pub type TxExtension =
-cumulus_pallet_weight_reclaim::StorageWeightReclaim&lt;
-         Runtime,
-         (
-                 frame_system::CheckNonZeroSender&lt;Runtime&gt;,
-                 frame_system::CheckSpecVersion&lt;Runtime&gt;,
-                 frame_system::CheckTxVersion&lt;Runtime&gt;,
-                 frame_system::CheckGenesis&lt;Runtime&gt;,
-                 frame_system::CheckEra&lt;Runtime&gt;,
-                 frame_system::CheckNonce&lt;Runtime&gt;,
-                 frame_system::CheckWeight&lt;Runtime&gt;,
-pallet_transaction_payment::ChargeTransactionPayment&lt;Runtime&gt;,
-                 BridgeRejectObsoleteHeadersAndMessages,
-
-(bridge_to_rococo_config::OnBridgeHubWestendRefundBridgeHubRococoMessages,),
-frame_metadata_hash_extension::CheckMetadataHash&lt;Runtime&gt;,
-         ),
-  &gt;;
-  ```
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: georgepisaltu &lt;52418509+georgepisaltu@users.noreply.github.com&gt;
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5a5ac4</div>
-                                        <div class="message">Make `TransactionExtension` tuple of tuple transparent for implication (#7028)
-
-Currently `(A, B, C)` and `((A, B), C)` change the order of implications
-in the transaction extension pipeline. This order is not accessible in
-the metadata, because the metadata is just a vector of transaction
-extension, the nested structure is not visible.
-
-This PR make the implementation for tuple of `TransactionExtension`
-better for tuple of tuple. `(A, B, C)` and `((A, B), C)` don't change
-the implication for the validation A.
-
-This is a breaking change but only when using the trait
-`TransactionExtension` the code implementing the trait is not breaking
-(surprising rust behavior but fine).
-
----------
-
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b4f131</div>
-                                        <div class="message">Replace duplicated whitelist with whitelisted_storage_keys (#7024)
-
-related issue: #7018
-
-replaced duplicated whitelists with
-`AllPalletsWithSystem::whitelisted_storage_keys();` in this PR
-
----------
-
-Co-authored-by: Guillaume Thiolliere &lt;gui.thiolliere@gmail.com&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#721f6d9</div>
-                                        <div class="message">[WIP] Fix networking-benchmarks (#7036)
-
-cc https://github.com/paritytech/ci_cd/issues/1094</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#659f484</div>
-                                        <div class="message">[docs] Fix release naming (#7032)
-
-- **[docs] Fix release naming**
-- **Remove outdated and unmaintained file**
-
-Closes https://github.com/paritytech/polkadot-sdk/issues/6998
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3ab385</div>
-                                        <div class="message">migrate pallet-mixnet to umbrella crate (#6986)
-
-# Description
-
-Migrate pallet-mixnet to use umbrella crate whilst adding a few types
-and traits in the frame prelude that are used by other pallets as well.
-
-## Review Notes
-
-* This PR migrates `pallet-mixnet` to use the umbrella crate. 
-* Note that some imports like `use
-sp_application_crypto::RuntimeAppPublic;` and imports from
-`sp_mixnet::types::` have not been migrated to the umbrella crate as
-they are not used in any / many other places and are relevant only to
-the `pallet-mixnet`.
-* Transaction related helpers to submit transactions from `frame-system`
-have been added to the main `prelude` as they have usage across various
-pallets.
-```Rust
-	pub use frame_system::offchain::*;
-```
-* Exporting `arithmetic` module in the main `prelude` since this is used
-a lot throughout various pallets.
-* Nightly formatting has been applied using `cargo fmt`
-* Benchmarking dependencies have been removed from`palet-mixnet` as
-there is no benchmarking.rs present for `pallet-mixnet`. For the same
-reason, `"pallet-mixnet?/runtime-benchmarks"` has been removed from
-`umbrella/Cargo.toml`.
-
----------
-
-Co-authored-by: Dónal Murray &lt;donalm@seadanda.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7e2695</div>
-                                        <div class="message">Improve remote externalities logging (#7021)
-
-Changes:
-- Automatically detect if current env is tty. If not disable the spinner
-logging.
-- Add `Result` type.
-- Format log style.
-
-Originally reported from:
--
-https://github.com/hack-ink/polkadot-runtime-releaser/blob/4811d2b419649a73edd5bd1f748a858b846eb139/action/try-runtime/action.yml#L75-L91
--
-https://github.com/hack-ink/polkadot-runtime-releaser-workshop/pull/3#issuecomment-2563883943
-
-Closes #7010.
-
----
-
-Polkadot address: 156HGo9setPcU2qhFMVWLkcmtCEGySLwNqa3DaEiYSWtte4Y
-
----------
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4729457</div>
-                                        <div class="message">Fix polkadot sdk doc. (#7022)
-
-If you see the doc
-https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/frame_runtime/index.html
-The runtime part introduction is missing.
-
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdd1193</div>
-                                        <div class="message">Remove warning log from frame-omni-bencher CLI (#7020)
-
-# Description
-
-This PR removes the outdated warning message from the
-`frame-omni-bencher` CLI that states the tool is "not yet battle
-tested". Fixes #7019
-
-## Integration
-
-No integration steps are required.
-
-## Review Notes
-
-The functionality of the tool remains unchanged. Removes the warning
-message from the CLI output.
-
----------
-
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20513d6</div>
-                                        <div class="message">[pallet-revive] fix file case (#6981)
-
-fix https://github.com/paritytech/polkadot-sdk/issues/6970
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcbc0ef</div>
-                                        <div class="message">Add workflow for networking benchmarks (#7029)
-
-# Description
-
-Adds charts for networking benchmarks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d760a9</div>
-                                        <div class="message">[CI] Skip SemVer on R0-silent and update docs (#6285)
-
-Changes:
-- Make R0-silent not run the semver check again. Originally I thought
-this would be good to have a bullet-proof check, but it now often
-triggers when CI or unrelated files are changed. In the end, the
-developer has to make the right choice here - and always will need to.
-So bringing back the R0 label gives more power to the devs and should
-increase dev velocity. We still need to ensure that every use of this
-label is well understood, and not just used out of lazyness.
-- Fix `/cmd prdoc` bump levels
-- Update docs
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Jan 2025, 05:50:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2 Multi-language Support</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by aurexav in <span class="repo">subscan-explorer/polkametrics</span></div>
-                                    <div class="comment">Use Hugo multilingual.</div>
-                                </div>
-                                <div class="timestamp">7 Jan 2025, 03:46:31</div>
                             </section>
                         </div>
                     </section>
