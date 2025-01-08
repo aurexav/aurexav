@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1757" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2020" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.post{align-items:flex-start}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,329 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6307 Dedup nomination targets</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by aurexav in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">Hi, are we going to merge this?</div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 03:05:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">aurexav/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4059282</div>
+                                        <div class="message">Snowbridge: Support bridging native ETH (#6855)
+
+Changes:
+1. Use the 0x0000000000000000000000000000000000000000 token address as
+Native ETH.
+2. Convert it to/from `{ parents: 2, interior:
+X1(GlobalConsensus(Ethereum{chain_id: 1})) }` when encountered.
+
+Onchain changes:
+This will require a governance request to register native ETH (with the
+above location) in the foreign assets pallet and make it sufficient.
+
+Related solidity changes:
+https://github.com/Snowfork/snowbridge/pull/1354
+
+TODO:
+- [x] Emulated Tests
+
+---------
+
+Co-authored-by: Vincent Geddes &lt;117534+vgeddes@users.noreply.github.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
+Co-authored-by: Bastian Köcher &lt;info@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#645878a</div>
+                                        <div class="message">adding warning when using default substrateWeight in production (#7046)
+
+PR for #3581 
+Added a cfg to show a deprecated warning message when using std
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a578052</div>
+                                        <div class="message">release: unset SKIP_WASM_BUILD (#7074)
+
+# Description
+
+Seems like I added `SKIP_WASM_BUILD=1` 💀 for arch64 binaries, which
+results in various errors like:
+https://github.com/paritytech/polkadot-sdk/issues/6966. This PR unsets
+the variable.
+
+Closes #6966.
+
+## Integration
+
+People who found workarounds as in #6966 can consume the fixed binaries
+again.
+
+## Review Notes
+
+I introduced SKIP_WASM_BUILD=1 for some reason for aarch64 (probably to
+speed up testing) and forgot to remove it. It slipped through and
+interfered with `stable2412` release artifacts. Needs backporting to
+`stable2412` and then rebuilding/overwriting the aarch64 artifacts.
+
+---------
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4f56f6</div>
+                                        <div class="message">fix typos (#7068)
+
+Co-authored-by: Dónal Murray &lt;donalm@seadanda.dev&gt;
+Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baa3bcc</div>
+                                        <div class="message">Fix defensive! macro to be used in umbrella crates (#7069)
+
+PR for #7054 
+
+Replaced frame_support with $crate from @gui1117 's suggestion to fix
+the dependency issue
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#064f10c</div>
+                                        <div class="message">rewrite some flaky zombienet polkadot tests to zombienet-sdk (#6757)
+
+Will fix:
+https://github.com/paritytech/polkadot-sdk/issues/6574
+https://github.com/paritytech/polkadot-sdk/issues/6644
+https://github.com/paritytech/polkadot-sdk/issues/6062
+
+---------
+
+Co-authored-by: Javier Viola &lt;javier@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be20c65</div>
+                                        <div class="message">Implement NetworkRequest for litep2p (#7073)
+
+# Description
+
+Implements NetworkRequest::request for litep2p that we need for
+networking benchmarks
+
+
+## Review Notes
+
+Duplicates implementation for NetworkService
+
+https://github.com/paritytech/polkadot-sdk/blob/5bf9dd2aa9bf944434203128783925bdc2ad8c01/substrate/client/network/src/service.rs#L1186-L1205
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2c157a</div>
+                                        <div class="message">migrate pallet-node-authorization to use umbrella crate (#7040)
+
+# Description
+
+Migrate pallet-node-authorization to use umbrella crate. Part of #6504 
+
+## Review Notes
+
+* This PR migrates pallet-node-authorization to use the umbrella crate.
+* Some imports like below have not been added to any prelude as they
+have very limited usage across the various pallets.
+```rust
+use sp_core::OpaquePeerId as PeerId;
+```
+* Added a commonly used runtime trait for testing in the
+`testing_prelude` in `substrate/frame/src/lib.rs`:
+```rust
+pub use sp_runtime::traits::BadOrigin;
+```
+* `weights.rs` uses the `weights_prelude` like:
+```rust
+use frame::weights_prelude::*;
+```
+* `tests.rs` and `mock.rs` use the `testing_prelude`:
+```rust
+use frame::testing_prelude::*;
+```
+* `lib.rs` uses the main `prelude` like:
+```rust
+use frame::prelude::*;
+```
+* For testing: Checked that local build works and tests run
+successfully.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1059be7</div>
+                                        <div class="message">workflows: add debug input for sync templates act (#7057)
+
+# Description
+
+Introduce a workflow `debug` input for `misc-sync-templates.yml` and use
+it instead of the `runner.debug` context variable, which is set to '1'
+when `ACTIONS_RUNNER_DEBUG` env/secret is set
+(https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/troubleshooting-workflows/enabling-debug-logging#enabling-runner-diagnostic-logging).
+This is useful for controlling when to show debug prints.
+
+## Integration
+
+N/A
+
+## Review Notes
+
+Using `runner.debug` requires setting the `ACTIONS_RUNNER_DEBUG` env
+variable, but setting it to false/true is doable through an input, or by
+importing a variable from the github env file (which requires a code
+change). This input alone can replace the entire `runner.debug` +
+`ACTIONS_RUNNER_DEBUG` setup, which simplifies debug printing, but it
+doesn't look as standard as `runner.debug`. I don't think it is a big
+deal overall, for this action alone, but happy to account for other
+opinions.
+
+Note: setting the `ACTIONS_RUNNER_DEBUG` whenever we want in a separate
+branch wouldn't be useful because we can not run the
+`misc-sync-templates.yml` action from other branch than `master` (due to
+branch protection rules), so we need to expose this input to be
+controllable from `master`.
+
+---------
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c139739</div>
+                                        <div class="message">Remove usage of `sp-std` from Substrate (#7043)
+
+# Description
+
+This PR removes usage of deprecated `sp-std` from Substrate. (following
+PR of #5010)
+
+## Integration
+
+This PR doesn't remove re-exported `sp_std` from any crates yet, so
+downstream projects using re-exported `sp_std` will not be affected.
+
+## Review Notes
+
+The existing code using `sp-std` is refactored to use `alloc` and `core`
+directly. The key-value maps are instantiated from a vector of tuples
+directly instead of using `sp_std::map!` macro.
+
+`sp_std::Writer` is a helper type to use `Vec&lt;u8&gt;` with
+`core::fmt::Write` trait. This PR copied it into `sp-runtime`, because
+all crates using `sp_std::Writer` (including `sp-runtime` itself,
+`frame-support`, etc.) depend on `sp-runtime`.
+
+If this PR is merged, I would write following PRs to remove remaining
+usage of `sp-std` from `bridges` and `cumulus`.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: Guillaume Thiolliere &lt;guillaume.thiolliere@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;info@kchr.de&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 03:04:46</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">hack-ink/Grants-Program</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#11a698f</div>
+                                        <div class="message">Amend PRR (#2474)
+
+* Amend PRR
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;
+
+* Typo
+
+---------
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acbc273</div>
+                                        <div class="message">update dairdrop payment address (#2479)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2352f09</div>
+                                        <div class="message">Update index.md
+
+Typink M1</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 02:59:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#7069 Fix defensive! macro to be used in umbrella crates</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Krayt78 in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">Part of #6976.</div>
+                                </div>
+                                <div class="timestamp">8 Jan 2025, 02:57:09</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -684,78 +1007,6 @@ Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
                                     <div class="comment">Use Hugo multilingual.</div>
                                 </div>
                                 <div class="timestamp">7 Jan 2025, 03:46:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#2 Multi-language Support</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">subscan-explorer/polkametrics</span></div>
-                                </div>
-                                <div class="timestamp">7 Jan 2025, 03:46:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">subscan-explorer/polkametrics.pages</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Jan 2025, 02:49:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/Grants-Program</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f5afa7</div>
-                                        <div class="message">Typo</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Jan 2025, 01:56:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#3 Should the Data from Last 7 Days be Incorporated into Daily Deport</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">subscan-explorer/polkametrics</span></div>
-                                </div>
-                                <div class="timestamp">6 Jan 2025, 09:22:20</div>
                             </section>
                         </div>
                     </section>
