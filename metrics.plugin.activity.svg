@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2639" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2216" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,69 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/rust-initializer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b60ac29</div>
+                                        <div class="message">More badges</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Jan 2025, 13:25:09</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/polkadot-runtime-releaser</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4acf46f</div>
+                                        <div class="message">Add badges</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Jan 2025, 13:24:02</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/polkadot-runtime-releaser</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dae98a9</div>
+                                        <div class="message">Add some comments</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Jan 2025, 13:09:25</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1128,200 +1191,6 @@ Give them an alias,
                                     </div>
                                 </div>
                                 <div class="timestamp">18 Jan 2025, 01:00:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">hack-ink/Grant-Milestone-Delivery</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6216fa6</div>
-                                        <div class="message">accept runtime_release_m1 (#1239)
-
-* accept runtime_release_m1
-
-* accept
-
-* accept + fix typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7206d3b</div>
-                                        <div class="message">Merge pull request #1235 from ChainSupport/master
-
-add frontier-pos-template-m1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4734fa6</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5781fbb</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04b3456</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d21c675</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aea100</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d7bb37</div>
-                                        <div class="message">Solang playground milestone 4 (#1215)
-
-* add solang playground milestone 4
-
-Signed-off-by: salaheldinsoliman &lt;salaheldin_sameh@aucegypt.edu&gt;
-
-* update context
-
-Signed-off-by: salaheldinsoliman &lt;salaheldin_sameh@aucegypt.edu&gt;
-
-* update deployment
-
-Signed-off-by: salaheldinsoliman &lt;salaheldin_sameh@aucegypt.edu&gt;
-
----------
-
-Signed-off-by: salaheldinsoliman &lt;salaheldin_sameh@aucegypt.edu&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54c1d2a</div>
-                                        <div class="message">accept Solang_Playground_4_takahser.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c520cca</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d670bfb</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07ea3fc</div>
-                                        <div class="message">Create agridot_m1.md (#1233)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97b486a</div>
-                                        <div class="message">AgriDot m1 evaluation (#1238)
-
-* errors on app tests
-
-* accept</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1454e85</div>
-                                        <div class="message">Update frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05a5a6f</div>
-                                        <div class="message">Create frontier-pos-template_1_keeganquigley.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffd9ac2</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ff27dc</div>
-                                        <div class="message">Typink M1 (#1232)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cd6d15</div>
-                                        <div class="message">Merge branch 'master' of github.com:w3f/Grant-Milestone-Delivery</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f8cb9c</div>
-                                        <div class="message">Typink M1 accepted</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fc2ef7</div>
-                                        <div class="message">add frontier-pos-template-m1</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Jan 2025, 00:56:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">hack-ink/Grants-Program</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4862ad9</div>
-                                        <div class="message">add eliza-plugin-dot (#2482)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2129573</div>
-                                        <div class="message">add queryweb3 to accepted grant applications</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f3fc89</div>
-                                        <div class="message">add missing wave 24 projects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c764976</div>
-                                        <div class="message">Update README.md
-
-Fix Ecosystem typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10aa97f</div>
-                                        <div class="message">Update application-template.md
-
-Replace warning emojis with Markdown alerts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a75e0f</div>
-                                        <div class="message">Update AgriDot.md (#2483)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Jan 2025, 00:55:37</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1236 Polkadot Runtime Releaser Milestone 1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by aurexav in <span class="repo">w3f/Grant-Milestone-Delivery</span></div>
-                                    <div class="comment">
-                                        <i>Hey @aurexav ,
-thanks for your delivery. I'm happy to accept it. See here for the evaluation. I hope this makes CI and deployment more convenient for many teams :)
-🎉</i>
-                                        Thank you!
-And I think I have already submitted the invoice form?
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2025, 15:52:12</div>
                             </section>
                         </div>
                     </section>
