@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1444" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1760" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*,.row section{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.audit.text{min-width:42px}.audit svg{margin:0}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,503 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 165 commits in
+                                        <span class="repo">aurexav/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dedup-nominators</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48c6574</div>
+                                        <div class="message">Add aliasers to westend chains (#6814)
+
+`InitiateTransfer`, the new instruction introduced in XCMv5, allows
+preserving the origin after a cross-chain transfer via the usage of the
+`AliasOrigin` instruction. The receiving chain needs to be configured to
+allow such this instruction to have its intended effect and not just
+throw an error.
+
+In this PR, I add the alias rules specified in the [RFC for origin
+preservation](https://github.com/polkadot-fellows/RFCs/blob/main/text/0122-alias-origin-on-asset-transfers.md)
+to westend chains so we can test these scenarios in the testnet.
+
+The new scenarios include:
+- Sending a cross-chain transfer from one system chain to another and
+doing a Transact on the same message (1 hop)
+- Sending a reserve asset transfer from one chain to another going
+through asset hub and doing Transact on the same message (2 hops)
+
+The updated chains are:
+- Relay: added `AliasChildLocation`
+- Collectives: added `AliasChildLocation` and
+`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
+- People: added `AliasChildLocation` and
+`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
+- Coretime: added `AliasChildLocation` and
+`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
+
+AssetHub already has `AliasChildLocation` and doesn't need the other
+config item.
+BridgeHub is not intended to be used by end users so I didn't add any
+config item.
+Only added `AliasChildOrigin` to the relay since we intend for it to be
+used less.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da2dd9b</div>
+                                        <div class="message">snowbridge: Update alloy-core (#6808)
+
+I am planning to use `alloy_core` to implement precompile support in
+`pallet_revive`. I noticed that it is already used by snowbridge. In
+order to unify the dependencies I did the following:
+
+1. Switch to the `alloy-core` umbrella crate so that we have less
+individual dependencies to update.
+2. Bump the latest version and fixup the resulting compile errors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85dd228</div>
+                                        <div class="message">Make approval-distribution aggression a bit more robust and less spammy (#6696)
+
+After finality started lagging on kusama around `2025-11-25 15:55:40`
+nodes started being overloaded with messages and some restarted with
+```
+Subsystem approval-distribution-subsystem appears unresponsive when sending a message of type polkadot_node_subsystem_types::messages::ApprovalDistributionMessage. origin=polkadot_service::relay_chain_selection::SelectRelayChainInner&lt;sc_client_db::Backend&lt;sp_runtime::generic::block::Block&lt;sp_runtime::generic::header::Header&lt;u32, sp_runtime::traits::BlakeTwo256&gt;, sp_runtime::OpaqueExtrinsic&gt;&gt;, polkadot_overseer::Handle&gt;
+```
+
+I think this happened because our aggression in the current form is way
+too spammy and create problems in situation where we already constructed
+blocks with a load of candidates to check which what happened around
+`#25933682` before and after. However aggression, does help in the
+nightmare scenario where the network is segmented and sparsely
+connected, so I tend to think we shouldn't completely remove it.
+
+The current configuration is:
+```
+l1_threshold: Some(16),
+l2_threshold: Some(28),
+resend_unfinalized_period: Some(8),
+```
+The way aggression works right now :
+1. After L1 is triggered all nodes send all messages they created to all
+the other nodes and all messages they would have they already send
+according to the topology.
+2. Because of resend_unfinalized_period for each block all messages at
+step 1) are sent every 8 blocks, so for example let's say we have blocks
+1 to 24 unfinalized, then at block 25, all messages for block 1, 9 will
+be resent, and consequently at block 26, all messages for block 2, 10
+will be resent, this becomes worse as more blocks are created if backing
+backpressure did not kick in yet. In total this logic makes that each
+node receive 3 * total_number_of messages_per_block
+3. L2 aggression is way too spammy, when L2 aggression is enabled all
+nodes sends all messages of a block on GridXY, that means that all
+messages are received and sent by node at least 2*sqrt(num_validators),
+so on kusama would be 66 * NUM_MESSAGES_AT_FIRST_UNFINALIZED_BLOCK, so
+even with a reasonable number of messages like 10K, which you can have
+if you escalated because of no shows, you end-up sending and receiving
+~660k messages at once, I think that's what makes the
+approval-distribution to appear unresponsive on some nodes.
+4. Duplicate messages are received by the nodes which turn, mark the
+node as banned, which may create more no-shows.
+
+## Proposed improvements:
+1. Make L2 trigger way later 28 blocks, instead of 64, this should
+literally the last resort, until then we should try to let the
+approval-voting escalation mechanism to do its things and cover the
+no-shows.
+2. On L1 aggression don't send messages for blocks too far from the
+first_unfinalized there is no point in sending the messages for block
+20, if block 1 is still unfinalized.
+3. On L1 aggression, send messages then back-off for 3 *
+resend_unfinalized_period to give time for everyone to clear up their
+queues.
+4. If aggression is enabled accept duplicate messages from validators
+and don't punish them by reducting their reputation which, which may
+create no-shows.
+
+---------
+
+Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;
+Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dcdf81</div>
+                                        <div class="message">Migration of polkadot-runtime-common auctions benchmarking to v2 (#6613)
+
+# Description
+Migrated polkadot-runtime-common auctions benchmarking to the new
+benchmarking syntax v2.
+This is part of #6202
+
+---------
+
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99be9b1</div>
+                                        <div class="message">[pallet-revive] eth-rpc add missing tests (#6728)
+
+Add tests for #6608 
+
+fix https://github.com/paritytech/contract-issues/issues/12
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48c28d4</div>
+                                        <div class="message">omni-node: --dev sets manual seal and allows --chain to be set (#6646)
+
+# Description
+
+This PR changes a few things:
+* `--dev` flag will not conflict with `--chain` anymore, but if
+`--chain` is not given will set `--chain=dev`.
+* `--dev-block-time` is optional and it defaults to 3000ms if not set
+after setting `--dev`.
+* to start OmniNode with manual seal it is enough to pass just `--dev`.
+* `--dev-block-time` can still be used to start a node with manual seal,
+but it will not set it up as `--dev` does (it will not set a bunch of
+flags which are enabled by default when `--dev` is set: e.g. `--tmp`,
+`--alice` and `--force-authoring`.
+
+Closes: #6537
+
+## Integration
+
+Relevant for node/runtime developers that use OmniNode lib, including
+`polkadot-omni-node` binary, although the recommended way for runtime
+development is to use `chopsticks`.
+
+## Review Notes
+
+* Decided to focus only on OmniNode &amp; templates docs in relation to it,
+and leave the `parachain-template-node` as is (meaning `--dev` isn't
+usable and testing a runtime with the `parachain-template-node` still
+needs a relay chain here). I am doing this because I think we want
+either way to phase out `parachain-template-node` and adding manual seal
+support for it is wasted effort. We might add support though if the
+demand is for `parachain-template-node`.
+* Decided to not infer the block time based on AURA config yet because
+there is still the option of setting a specific block time by using
+`--dev-block-time`. Also, would want first to align &amp; merge on runtime
+metadata checks we added in Omni Node here:
+https://github.com/paritytech/polkadot-sdk/pull/6450 before starting to
+infer AURA config slot duration via the same way.
+
+- [x] update the docs to mention `--dev` now.
+- [x] mention about chopsticks in the context of runtime development
+
+---------
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;
+Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe4846f</div>
+                                        <div class="message">XCMv5: Fix for compatibility with V4 (#6503)
+
+## Description
+
+Our smoke tests transfer `WETH` from Sepolia to Westend-AssetHub breaks,
+try to reregister `WETH` on AH but fails as following:
+
+
+https://bridgehub-westend.subscan.io/xcm_message/westend-4796d6b3600aca32ef63b9953acf6a456cfd2fbe
+
+https://assethub-westend.subscan.io/extrinsic/9731267-0?event=9731267-2
+
+The reason is that the transact call encoded on BH to register the asset
+
+https://github.com/paritytech/polkadot-sdk/blob/a77940bac783108fcae783c553528c8d5328e5b2/bridges/snowbridge/primitives/router/src/inbound/mod.rs#L282-L289
+```
+0x3500020209079edaa8020300fff9976782d46cc05630d1f6ebab18b2324d6b1400ce796ae65569a670d0c1cc1ac12515a3ce21b5fbf729d63d7b289baad070139d01000000000000000000000000000000
+```
+
+the `asset_id` which is the xcm location can't be decoded on AH in V5
+
+Issue initial post in
+https://matrix.to/#/!qUtSTcfMJzBdPmpFKa:parity.io/$RNMAxIIOKGtBAqkgwiFuQf4eNaYpmOK-Pfw4d6vv1aU?via=parity.io&amp;via=matrix.org&amp;via=web3.foundation
+
+---------
+
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;
+Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65a4e5e</div>
+                                        <div class="message">Fix order of  resending  messages after restart (#6729)
+
+The way we build the messages we need to send to approval-distribution
+can result in a situation where is we have multiple assignments covered
+by a coalesced approval, the messages are sent in this order:
+
+ASSIGNMENT1, APPROVAL, ASSIGNMENT2, because we iterate over each
+candidate and add to the queue of messages both the assignment and the
+approval for that candidate, and when the approval reaches the
+approval-distribution subsystem it won't be imported and gossiped
+because one of the assignment for it is not known.
+
+So in a network where a lot of nodes are restarting at the same time we
+could end up in a situation where a set of the nodes correctly received
+the assignments and approvals before the restart and approve their
+blocks and don't trigger their assignments. The other set of nodes
+should receive the assignments and approvals after the restart, but
+because the approvals never get broacasted anymore because of this bug,
+the only way they could approve is if other nodes start broadcasting
+their assignments.
+
+I think this bug contribute to the reason the network did not recovered
+on `25-11-25 15:55:40` after the restarts.
+
+Tested this scenario with a `zombienet` where `nodes` are finalising
+blocks because of aggression and all nodes are restarted at once and
+confirmed the network lags and doesn't recover before and it does after
+the fix
+
+---------
+
+Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19bc578</div>
+                                        <div class="message">polkadot-sdk-docs: Use command_macro! (#6624)
+
+# Description
+
+**Understood assignment:**
+Initial assignment description is in #6194.
+In order to Simplify the display of commands and ensure they are tested
+for chain spec builder's `polkadot-sdk` reference docs, find every
+occurrence of `#[docify::export]` where `process:Command` is used, and
+replace the use of `process:Command` by `run_cmd!` from the `cmd_lib
+crate`.
+
+---------
+
+Co-authored-by: Iulian Barbu &lt;14218860+iulianbarbu@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c808a00</div>
+                                        <div class="message">Let cmd bot to trigger ci on commit (#6813)
+
+Fixes: https://github.com/paritytech/ci_cd/issues/1079
+Improvements:
+- switch to github native token creation action
+- refresh branch in CI from HEAD, to prevent failure
+- add APP token when pushing, to allow CI to be retriggering by bot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#311ea43</div>
+                                        <div class="message">Remove AccountKeyring everywhere (#5899)
+
+Close: #5858
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f4b99c</div>
+                                        <div class="message">Bridges - revert-back congestion mechanism (#6781)
+
+Closes: https://github.com/paritytech/polkadot-sdk/issues/5551
+
+## Description
+
+With [permissionless lanes
+PR#4949](https://github.com/paritytech/polkadot-sdk/pull/4949), the
+congestion mechanism based on sending
+`Transact(report_bridge_status(is_congested))` from
+`pallet-xcm-bridge-hub` to `pallet-xcm-bridge-hub-router` was replaced
+with a congestion mechanism that relied on monitoring XCMP queues.
+However, this approach could cause issues, such as suspending the entire
+XCMP queue instead of isolating the affected bridge. This PR reverts
+back to using `report_bridge_status` as before.
+
+## TODO
+- [x] benchmarks
+- [x] prdoc
+
+## Follow-up
+
+https://github.com/paritytech/polkadot-sdk/pull/6231
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fb99c0</div>
+                                        <div class="message">Add fallback_weight to the log (#6782)
+
+Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fc9248</div>
+                                        <div class="message">Add fallback_max_weight to snowbridge Transact (#6792)
+
+We removed the `require_weight_at_most` field and later changed it to
+`fallback_max_weight`.
+This was to have a fallback when sending a message to v4 chains, which
+happens in the small time window when chains are upgrading.
+We originally put no fallback for a message in snowbridge's inbound
+queue but we should have one.
+This PR adds it.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e79fd2b</div>
+                                        <div class="message">xcm-executor: take transport fee from transferred assets if necessary (#4834)
+
+# Description
+
+Sending XCM messages to other chains requires paying a "transport fee".
+This can be paid either:
+- from `origin` local account if `jit_withdraw = true`,
+- taken from Holding register otherwise.
+
+This currently works for following hops/scenarios:
+1. On destination no transport fee needed (only sending costs, not
+receiving),
+2. Local/originating chain: just set JIT=true and fee will be paid from
+signed account,
+3. Intermediary hops - only if intermediary is acting as reserve between
+two untrusted chains (aka only for `DepositReserveAsset` instruction) -
+this was fixed in https://github.com/paritytech/polkadot-sdk/pull/3142
+
+But now we're seeing more complex asset transfers that are mixing
+reserve transfers with teleports depending on the involved chains.
+
+# Example
+
+E.g. transferring DOT between Relay and parachain, but through AH (using
+AH instead of the Relay chain as parachain's DOT reserve).
+
+In the `Parachain --1--&gt; AssetHub --2--&gt; Relay` scenario, DOT has to be
+reserve-withdrawn in leg `1`, then teleported in leg `2`.
+On the intermediary hop (AssetHub), `InitiateTeleport` fails to send
+onward message because of missing transport fees. We also can't rely on
+`jit_withdraw` because the original origin is lost on the way, and even
+if it weren't we can't rely on the user having funded accounts on each
+hop along the way.
+
+# Solution/Changes
+
+- Charge the transport fee in the executor from the transferred assets
+(if available),
+- Only charge from transferred assets if JIT_WITHDRAW was not set,
+- Only charge from transferred assets if unless using XCMv5 `PayFees`
+where we do not have this problem.
+
+# Testing
+
+Added regression tests in emulated transfers.
+
+Fixes https://github.com/paritytech/polkadot-sdk/issues/4832
+Fixes https://github.com/paritytech/polkadot-sdk/issues/6637
+
+---------
+
+Signed-off-by: Adrian Catangiu &lt;adrian@parity.io&gt;
+Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4198dc9</div>
+                                        <div class="message">pallet-revive: Remove unused dependencies (#6796)
+
+The dependency on `pallet_balances` doesn't seem to be necessary. At
+least everything compiles for me without it. Removed this dependency and
+a few others that seem to be left overs.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da95345</div>
+                                        <div class="message">Fix `Possible bug: Vote import failed` after aggression is enabled (#6690)
+
+After finality started lagging on kusama around 025-11-25 15:55:40
+validators started seeing ocassionally this log, when importing votes
+covering more than one assignment.
+```
+Possible bug: Vote import failed
+```
+
+That happens because the assumption that assignments from the same
+validator would have the same required routing doesn't hold after you
+enabled aggression, so you might end up receiving the first assignment
+then you modify the routing for it in `enable_aggression` then your
+receive the second assignment and the vote covering both assignments, so
+the rouing for the first and second assingment wouldn't match and we
+would fail to import the vote.
+
+From the logs I've seen, I don't think this is the reason the network
+didn't fully recover until the failsafe kicked it, because the votes had
+been already imported in approval-voting before this error.
+
+---------
+
+Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81b979a</div>
+                                        <div class="message">Mak cmd swap omnibench (#6769)
+
+- change bench to default to old CLI
+- fix profile to production
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2e1e59</div>
+                                        <div class="message">[CI/CD]Revert the token changes in backport flow (#6794)
+
+Set back the token for the cmd_bot in the backport flow so that it work
+again, till the new set up will be figured out with the sec team</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#906fa9e</div>
+                                        <div class="message">XCM V5 - SetHints instruction (#6566)
+
+Last feature we wanted for V5, changing `SetAssetClaimer` to be just one
+of many possible "hints" that you can specify at the beginning of your
+program to change its behaviour.
+
+This makes it easier to add new hints in the future and have barriers
+accept them.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Jan 2025, 18:32:09</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -383,27 +880,6 @@ Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">19 Jan 2025, 13:24:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/polkadot-runtime-releaser</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dae98a9</div>
-                                        <div class="message">Add some comments</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Jan 2025, 13:09:25</div>
                             </section>
                         </div>
                     </section>
