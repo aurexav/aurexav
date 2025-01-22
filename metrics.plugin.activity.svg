@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1998" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1425" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number,.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,261 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v6.9.1</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:12:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4a409d0</div>
+                                        <div class="message">Update release note (#1661)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:12:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">x/release-note</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:12:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#1661 Update release note</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++0 --3</span></div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:12:22</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1661 Update release note</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++0 --3</span></div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:11:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">x/release-note</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 07:11:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">x/migration</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:22:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#1659 Fix migration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++2 --9</span></div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:22:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">x/merge-queue</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:02:14</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f33c593</div>
+                                        <div class="message">Enable merge queue (#1660)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:02:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#1660 Enable merge queue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:02:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1660 Enable merge queue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:01:55</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">x/merge-queue</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9713d40</div>
+                                        <div class="message">Enable merge queue</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:01:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">x/merge-queue</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Jan 2025, 06:01:21</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -126,934 +381,6 @@
                                     <div class="comment">Fixes migration UI.</div>
                                 </div>
                                 <div class="timestamp">22 Jan 2025, 02:44:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">itering/internal-security-audit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">x/req</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9a2769</div>
-                                        <div class="message">Update</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Jan 2025, 02:34:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">subscan-explorer/polkametrics.page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c02581c</div>
-                                        <div class="message">2025-01-21</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Jan 2025, 01:03:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">drod3763/kiliman-operator-mono-lig-docker</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 10:49:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">aurexav/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cbf3925</div>
-                                        <div class="message">[eth-indexer] subscribe to finalize blocks instead of best blocks (#7260)
-
-For eth-indexer, it's probably safer to use `subscribe_finalized` and
-index these blocks into the DB rather than `subscribe_best`
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c4cecc</div>
-                                        <div class="message">Fix `frame-benchmarking-cli` not buildable without rocksdb (#7263)
-
-## Description
-
-The `frame-benchmarking-cli` crate has not been buildable without the
-`rocksdb` feature since version 1.17.0.
-
-**Error:**  
-```rust
-self.database()?.unwrap_or(Database::RocksDb),
-                             ^^^^^^^ variant or associated item not found in `Database`
-```
-
-This issue is also related to the `rocksdb` feature bleeding (#3793),
-where the `rocksdb` feature was always activated even when compiling
-this crate with `--no-default-features`.
-
-**Fix:**  
-- Resolved the error by choosing `paritydb` as the default database when
-compiled without the `rocksdb` feature.
-- Fixed the issue where the `sc-cli` crate's `rocksdb` feature was
-always active, even compiling `frame-benchmarking-cli` with
-`--no-default-features`.
-
-## Review Notes
-
-Fix the crate to be built without rocksdb, not intended to solve #3793.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#711e6ff</div>
-                                        <div class="message">Migrate `pallet-assets-freezer` to umbrella crate (#6599)
-
-Part of https://github.com/paritytech/polkadot-sdk/issues/6504
-
-### Added modules
-
-- `utility`: Traits not tied to any direct operation in the runtime.
-
-polkadot address: 14SRqZTC1d8rfxL8W1tBTnfUBPU23ACFVPzp61FyGf4ftUFg
-
----------
-
-Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#569ce71</div>
-                                        <div class="message">Migrate pallet-mmr to umbrella crate (#7081)
-
-Part of https://github.com/paritytech/polkadot-sdk/issues/6504</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#115ff4e</div>
-                                        <div class="message">Apply a few minor fixes found while addressing the fellows PR for weights. (#7098)
-
-This PR addresses a few minor issues found while working on the
-polkadot-fellows PR
-[https://github.com/polkadot-fellows/runtimes/pull/522](https://github.com/polkadot-fellows/runtimes/pull/522):
-- Incorrect generic type for `InboundLaneData` in
-`check_message_lane_weights`.
-- Renaming leftovers: `assigner_on_demand` -&gt; `on_demand`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea27696</div>
-                                        <div class="message">[pallet-revive] eth-rpc error logging (#7251)
-
-Log error instead of failing with an error when block processing fails
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5d9b12</div>
-                                        <div class="message">Stabilize `ensure_execute_processes_have_correct_num_threads` test (#7253)
-
-Saw this test flake a few times, last time
-[here](https://github.com/paritytech/polkadot-sdk/actions/runs/12834432188/job/35791830215).
-
-We first fetch all processes in the test, then query `/proc/&lt;pid&gt;/stat`
-for every one of them. When the file was not found, we would error. Now
-we tolerate not finding this file. Ran 200 times locally without error,
-before would fail a few times, probably depending on process fluctuation
-(which I expect to be high on CI runners).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4937f77</div>
-                                        <div class="message">Use docify export for parachain template hardcoded configuration and embed it in its README #6333 (#7093)
-
-Use docify export for parachain template hardcoded configuration and
-embed it in its README #6333
-
-Docify currently has a limitation of not being able to embed a
-variable/const in its code, without embedding it's definition, even if
-do something in a string like
-
-"this is a sample string ${sample_variable}"
-
-It will embed the entire string 
-"this is a sample string ${sample_variable}"
-without replacing the value of sample_variable from the code
-
-Hence, the goal was just to make it obvious in the README where the
-PARACHAIN_ID value is coming from, so a note has been added at the start
-for the same, so whenever somebody is running these commands, they will
-be aware about the value and replace accordingly.
-
-To make it simpler, we added a 
-rust ignore block so the user can just look it up in the readme itself
-and does not have to scan through the runtime directory for the value.
-
----------
-
-Co-authored-by: Iulian Barbu &lt;14218860+iulianbarbu@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06f5d48</div>
-                                        <div class="message">Collator: Fix `can_build_upon` by always allowing to build on included block (#7205)
-
-Follow-up to #6825, which introduced this bug.
-
-We use the `can_build_upon` method to ask the runtime if it is fine to
-build another block. The runtime checks this based on the
-[`ConsensusHook`](https://github.com/paritytech/polkadot-sdk/blob/c1b7c3025aa4423d4cf3e57309b60fb7602c2db6/cumulus/pallets/aura-ext/src/consensus_hook.rs#L110-L110)
-implementation, the most popular one being the `FixedConsensusHook`.
-
-In #6825 I removed a check that would always allow us to build when we
-are building on an included block. Turns out this check is still
-required when:
-1. The [`UnincludedSegment`
-](https://github.com/paritytech/polkadot-sdk/blob/c1b7c3025aa4423d4cf3e57309b60fb7602c2db6/cumulus/pallets/parachain-system/src/lib.rs#L758-L758)
-storage item in pallet-parachain-system is equal or larger than the
-unincluded segment.
-2. We are calling the `can_build_upon` runtime API where the included
-block has progressed offchain to the current parent block (so last entry
-in the `UnincludedSegment` storage item).
-
-In this scenario the last entry in `UnincludedSegment` does not have a
-hash assigned yet (because it was not available in `on_finalize` of the
-previous block). So the unincluded segment will be reported at its
-maximum length which will forbid building another block.
-
-Ideally we would have a more elegant solution than to rely on the
-node-side here. But for now the check is reintroduced and a test is
-added to not break it again by accident.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 09:12:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#6293 Migrate pallet-nis benchmark to v2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by aurexav in <span class="repo">paritytech/polkadot-sdk</span></div>
-                                    <div class="comment">But I can't continue the work if the conclusion is "maybe". 😿</div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 09:08:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#6293 Migrate pallet-nis benchmark to v2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">paritytech/polkadot-sdk</span></div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 09:08:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">x/release</span>
-                                        in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 08:07:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fdfcc81</div>
-                                        <div class="message">Release `v6.9.1` (#1658)
-
-* Bump deps
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;
-
-* Release referenda deposit
-
-* Release `v6.9.1`
-
-* Remove deprecated code
-
----------
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 08:07:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#1658 Release `v6.9.1`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div>33 files changed <span class="code">++725 --1525</span></div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 08:07:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">subscan-explorer/polkametrics.page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62e6ed7</div>
-                                        <div class="message">Format</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 07:22:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">x/release</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef8d7f0</div>
-                                        <div class="message">Remove deprecated code</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 06:34:24</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">subscan-explorer/polkametrics.page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05c79cc</div>
-                                        <div class="message">2025-01-21
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 01:02:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">subscan-explorer/polkametrics.page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d508f23</div>
-                                        <div class="message">2025-01-21</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 00:59:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 165 commits in
-                                        <span class="repo">aurexav/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dedup-nominators</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48c6574</div>
-                                        <div class="message">Add aliasers to westend chains (#6814)
-
-`InitiateTransfer`, the new instruction introduced in XCMv5, allows
-preserving the origin after a cross-chain transfer via the usage of the
-`AliasOrigin` instruction. The receiving chain needs to be configured to
-allow such this instruction to have its intended effect and not just
-throw an error.
-
-In this PR, I add the alias rules specified in the [RFC for origin
-preservation](https://github.com/polkadot-fellows/RFCs/blob/main/text/0122-alias-origin-on-asset-transfers.md)
-to westend chains so we can test these scenarios in the testnet.
-
-The new scenarios include:
-- Sending a cross-chain transfer from one system chain to another and
-doing a Transact on the same message (1 hop)
-- Sending a reserve asset transfer from one chain to another going
-through asset hub and doing Transact on the same message (2 hops)
-
-The updated chains are:
-- Relay: added `AliasChildLocation`
-- Collectives: added `AliasChildLocation` and
-`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
-- People: added `AliasChildLocation` and
-`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
-- Coretime: added `AliasChildLocation` and
-`AliasOriginRootUsingFilter&lt;AssetHubLocation, Everything&gt;`
-
-AssetHub already has `AliasChildLocation` and doesn't need the other
-config item.
-BridgeHub is not intended to be used by end users so I didn't add any
-config item.
-Only added `AliasChildOrigin` to the relay since we intend for it to be
-used less.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da2dd9b</div>
-                                        <div class="message">snowbridge: Update alloy-core (#6808)
-
-I am planning to use `alloy_core` to implement precompile support in
-`pallet_revive`. I noticed that it is already used by snowbridge. In
-order to unify the dependencies I did the following:
-
-1. Switch to the `alloy-core` umbrella crate so that we have less
-individual dependencies to update.
-2. Bump the latest version and fixup the resulting compile errors.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85dd228</div>
-                                        <div class="message">Make approval-distribution aggression a bit more robust and less spammy (#6696)
-
-After finality started lagging on kusama around `2025-11-25 15:55:40`
-nodes started being overloaded with messages and some restarted with
-```
-Subsystem approval-distribution-subsystem appears unresponsive when sending a message of type polkadot_node_subsystem_types::messages::ApprovalDistributionMessage. origin=polkadot_service::relay_chain_selection::SelectRelayChainInner&lt;sc_client_db::Backend&lt;sp_runtime::generic::block::Block&lt;sp_runtime::generic::header::Header&lt;u32, sp_runtime::traits::BlakeTwo256&gt;, sp_runtime::OpaqueExtrinsic&gt;&gt;, polkadot_overseer::Handle&gt;
-```
-
-I think this happened because our aggression in the current form is way
-too spammy and create problems in situation where we already constructed
-blocks with a load of candidates to check which what happened around
-`#25933682` before and after. However aggression, does help in the
-nightmare scenario where the network is segmented and sparsely
-connected, so I tend to think we shouldn't completely remove it.
-
-The current configuration is:
-```
-l1_threshold: Some(16),
-l2_threshold: Some(28),
-resend_unfinalized_period: Some(8),
-```
-The way aggression works right now :
-1. After L1 is triggered all nodes send all messages they created to all
-the other nodes and all messages they would have they already send
-according to the topology.
-2. Because of resend_unfinalized_period for each block all messages at
-step 1) are sent every 8 blocks, so for example let's say we have blocks
-1 to 24 unfinalized, then at block 25, all messages for block 1, 9 will
-be resent, and consequently at block 26, all messages for block 2, 10
-will be resent, this becomes worse as more blocks are created if backing
-backpressure did not kick in yet. In total this logic makes that each
-node receive 3 * total_number_of messages_per_block
-3. L2 aggression is way too spammy, when L2 aggression is enabled all
-nodes sends all messages of a block on GridXY, that means that all
-messages are received and sent by node at least 2*sqrt(num_validators),
-so on kusama would be 66 * NUM_MESSAGES_AT_FIRST_UNFINALIZED_BLOCK, so
-even with a reasonable number of messages like 10K, which you can have
-if you escalated because of no shows, you end-up sending and receiving
-~660k messages at once, I think that's what makes the
-approval-distribution to appear unresponsive on some nodes.
-4. Duplicate messages are received by the nodes which turn, mark the
-node as banned, which may create more no-shows.
-
-## Proposed improvements:
-1. Make L2 trigger way later 28 blocks, instead of 64, this should
-literally the last resort, until then we should try to let the
-approval-voting escalation mechanism to do its things and cover the
-no-shows.
-2. On L1 aggression don't send messages for blocks too far from the
-first_unfinalized there is no point in sending the messages for block
-20, if block 1 is still unfinalized.
-3. On L1 aggression, send messages then back-off for 3 *
-resend_unfinalized_period to give time for everyone to clear up their
-queues.
-4. If aggression is enabled accept duplicate messages from validators
-and don't punish them by reducting their reputation which, which may
-create no-shows.
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dcdf81</div>
-                                        <div class="message">Migration of polkadot-runtime-common auctions benchmarking to v2 (#6613)
-
-# Description
-Migrated polkadot-runtime-common auctions benchmarking to the new
-benchmarking syntax v2.
-This is part of #6202
-
----------
-
-Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99be9b1</div>
-                                        <div class="message">[pallet-revive] eth-rpc add missing tests (#6728)
-
-Add tests for #6608 
-
-fix https://github.com/paritytech/contract-issues/issues/12
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48c28d4</div>
-                                        <div class="message">omni-node: --dev sets manual seal and allows --chain to be set (#6646)
-
-# Description
-
-This PR changes a few things:
-* `--dev` flag will not conflict with `--chain` anymore, but if
-`--chain` is not given will set `--chain=dev`.
-* `--dev-block-time` is optional and it defaults to 3000ms if not set
-after setting `--dev`.
-* to start OmniNode with manual seal it is enough to pass just `--dev`.
-* `--dev-block-time` can still be used to start a node with manual seal,
-but it will not set it up as `--dev` does (it will not set a bunch of
-flags which are enabled by default when `--dev` is set: e.g. `--tmp`,
-`--alice` and `--force-authoring`.
-
-Closes: #6537
-
-## Integration
-
-Relevant for node/runtime developers that use OmniNode lib, including
-`polkadot-omni-node` binary, although the recommended way for runtime
-development is to use `chopsticks`.
-
-## Review Notes
-
-* Decided to focus only on OmniNode &amp; templates docs in relation to it,
-and leave the `parachain-template-node` as is (meaning `--dev` isn't
-usable and testing a runtime with the `parachain-template-node` still
-needs a relay chain here). I am doing this because I think we want
-either way to phase out `parachain-template-node` and adding manual seal
-support for it is wasted effort. We might add support though if the
-demand is for `parachain-template-node`.
-* Decided to not infer the block time based on AURA config yet because
-there is still the option of setting a specific block time by using
-`--dev-block-time`. Also, would want first to align &amp; merge on runtime
-metadata checks we added in Omni Node here:
-https://github.com/paritytech/polkadot-sdk/pull/6450 before starting to
-infer AURA config slot duration via the same way.
-
-- [x] update the docs to mention `--dev` now.
-- [x] mention about chopsticks in the context of runtime development
-
----------
-
-Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;
-Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe4846f</div>
-                                        <div class="message">XCMv5: Fix for compatibility with V4 (#6503)
-
-## Description
-
-Our smoke tests transfer `WETH` from Sepolia to Westend-AssetHub breaks,
-try to reregister `WETH` on AH but fails as following:
-
-
-https://bridgehub-westend.subscan.io/xcm_message/westend-4796d6b3600aca32ef63b9953acf6a456cfd2fbe
-
-https://assethub-westend.subscan.io/extrinsic/9731267-0?event=9731267-2
-
-The reason is that the transact call encoded on BH to register the asset
-
-https://github.com/paritytech/polkadot-sdk/blob/a77940bac783108fcae783c553528c8d5328e5b2/bridges/snowbridge/primitives/router/src/inbound/mod.rs#L282-L289
-```
-0x3500020209079edaa8020300fff9976782d46cc05630d1f6ebab18b2324d6b1400ce796ae65569a670d0c1cc1ac12515a3ce21b5fbf729d63d7b289baad070139d01000000000000000000000000000000
-```
-
-the `asset_id` which is the xcm location can't be decoded on AH in V5
-
-Issue initial post in
-https://matrix.to/#/!qUtSTcfMJzBdPmpFKa:parity.io/$RNMAxIIOKGtBAqkgwiFuQf4eNaYpmOK-Pfw4d6vv1aU?via=parity.io&amp;via=matrix.org&amp;via=web3.foundation
-
----------
-
-Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;
-Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65a4e5e</div>
-                                        <div class="message">Fix order of  resending  messages after restart (#6729)
-
-The way we build the messages we need to send to approval-distribution
-can result in a situation where is we have multiple assignments covered
-by a coalesced approval, the messages are sent in this order:
-
-ASSIGNMENT1, APPROVAL, ASSIGNMENT2, because we iterate over each
-candidate and add to the queue of messages both the assignment and the
-approval for that candidate, and when the approval reaches the
-approval-distribution subsystem it won't be imported and gossiped
-because one of the assignment for it is not known.
-
-So in a network where a lot of nodes are restarting at the same time we
-could end up in a situation where a set of the nodes correctly received
-the assignments and approvals before the restart and approve their
-blocks and don't trigger their assignments. The other set of nodes
-should receive the assignments and approvals after the restart, but
-because the approvals never get broacasted anymore because of this bug,
-the only way they could approve is if other nodes start broadcasting
-their assignments.
-
-I think this bug contribute to the reason the network did not recovered
-on `25-11-25 15:55:40` after the restarts.
-
-Tested this scenario with a `zombienet` where `nodes` are finalising
-blocks because of aggression and all nodes are restarted at once and
-confirmed the network lags and doesn't recover before and it does after
-the fix
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19bc578</div>
-                                        <div class="message">polkadot-sdk-docs: Use command_macro! (#6624)
-
-# Description
-
-**Understood assignment:**
-Initial assignment description is in #6194.
-In order to Simplify the display of commands and ensure they are tested
-for chain spec builder's `polkadot-sdk` reference docs, find every
-occurrence of `#[docify::export]` where `process:Command` is used, and
-replace the use of `process:Command` by `run_cmd!` from the `cmd_lib
-crate`.
-
----------
-
-Co-authored-by: Iulian Barbu &lt;14218860+iulianbarbu@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c808a00</div>
-                                        <div class="message">Let cmd bot to trigger ci on commit (#6813)
-
-Fixes: https://github.com/paritytech/ci_cd/issues/1079
-Improvements:
-- switch to github native token creation action
-- refresh branch in CI from HEAD, to prevent failure
-- add APP token when pushing, to allow CI to be retriggering by bot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#311ea43</div>
-                                        <div class="message">Remove AccountKeyring everywhere (#5899)
-
-Close: #5858
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f4b99c</div>
-                                        <div class="message">Bridges - revert-back congestion mechanism (#6781)
-
-Closes: https://github.com/paritytech/polkadot-sdk/issues/5551
-
-## Description
-
-With [permissionless lanes
-PR#4949](https://github.com/paritytech/polkadot-sdk/pull/4949), the
-congestion mechanism based on sending
-`Transact(report_bridge_status(is_congested))` from
-`pallet-xcm-bridge-hub` to `pallet-xcm-bridge-hub-router` was replaced
-with a congestion mechanism that relied on monitoring XCMP queues.
-However, this approach could cause issues, such as suspending the entire
-XCMP queue instead of isolating the affected bridge. This PR reverts
-back to using `report_bridge_status` as before.
-
-## TODO
-- [x] benchmarks
-- [x] prdoc
-
-## Follow-up
-
-https://github.com/paritytech/polkadot-sdk/pull/6231
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fb99c0</div>
-                                        <div class="message">Add fallback_weight to the log (#6782)
-
-Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fc9248</div>
-                                        <div class="message">Add fallback_max_weight to snowbridge Transact (#6792)
-
-We removed the `require_weight_at_most` field and later changed it to
-`fallback_max_weight`.
-This was to have a fallback when sending a message to v4 chains, which
-happens in the small time window when chains are upgrading.
-We originally put no fallback for a message in snowbridge's inbound
-queue but we should have one.
-This PR adds it.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e79fd2b</div>
-                                        <div class="message">xcm-executor: take transport fee from transferred assets if necessary (#4834)
-
-# Description
-
-Sending XCM messages to other chains requires paying a "transport fee".
-This can be paid either:
-- from `origin` local account if `jit_withdraw = true`,
-- taken from Holding register otherwise.
-
-This currently works for following hops/scenarios:
-1. On destination no transport fee needed (only sending costs, not
-receiving),
-2. Local/originating chain: just set JIT=true and fee will be paid from
-signed account,
-3. Intermediary hops - only if intermediary is acting as reserve between
-two untrusted chains (aka only for `DepositReserveAsset` instruction) -
-this was fixed in https://github.com/paritytech/polkadot-sdk/pull/3142
-
-But now we're seeing more complex asset transfers that are mixing
-reserve transfers with teleports depending on the involved chains.
-
-# Example
-
-E.g. transferring DOT between Relay and parachain, but through AH (using
-AH instead of the Relay chain as parachain's DOT reserve).
-
-In the `Parachain --1--&gt; AssetHub --2--&gt; Relay` scenario, DOT has to be
-reserve-withdrawn in leg `1`, then teleported in leg `2`.
-On the intermediary hop (AssetHub), `InitiateTeleport` fails to send
-onward message because of missing transport fees. We also can't rely on
-`jit_withdraw` because the original origin is lost on the way, and even
-if it weren't we can't rely on the user having funded accounts on each
-hop along the way.
-
-# Solution/Changes
-
-- Charge the transport fee in the executor from the transferred assets
-(if available),
-- Only charge from transferred assets if JIT_WITHDRAW was not set,
-- Only charge from transferred assets if unless using XCMv5 `PayFees`
-where we do not have this problem.
-
-# Testing
-
-Added regression tests in emulated transfers.
-
-Fixes https://github.com/paritytech/polkadot-sdk/issues/4832
-Fixes https://github.com/paritytech/polkadot-sdk/issues/6637
-
----------
-
-Signed-off-by: Adrian Catangiu &lt;adrian@parity.io&gt;
-Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4198dc9</div>
-                                        <div class="message">pallet-revive: Remove unused dependencies (#6796)
-
-The dependency on `pallet_balances` doesn't seem to be necessary. At
-least everything compiles for me without it. Removed this dependency and
-a few others that seem to be left overs.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da95345</div>
-                                        <div class="message">Fix `Possible bug: Vote import failed` after aggression is enabled (#6690)
-
-After finality started lagging on kusama around 025-11-25 15:55:40
-validators started seeing ocassionally this log, when importing votes
-covering more than one assignment.
-```
-Possible bug: Vote import failed
-```
-
-That happens because the assumption that assignments from the same
-validator would have the same required routing doesn't hold after you
-enabled aggression, so you might end up receiving the first assignment
-then you modify the routing for it in `enable_aggression` then your
-receive the second assignment and the vote covering both assignments, so
-the rouing for the first and second assingment wouldn't match and we
-would fail to import the vote.
-
-From the logs I've seen, I don't think this is the reason the network
-didn't fully recover until the failsafe kicked it, because the votes had
-been already imported in approval-voting before this error.
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81b979a</div>
-                                        <div class="message">Mak cmd swap omnibench (#6769)
-
-- change bench to default to old CLI
-- fix profile to production
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2e1e59</div>
-                                        <div class="message">[CI/CD]Revert the token changes in backport flow (#6794)
-
-Set back the token for the cmd_bot in the backport flow so that it work
-again, till the new set up will be figured out with the sec team</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#906fa9e</div>
-                                        <div class="message">XCM V5 - SetHints instruction (#6566)
-
-Last feature we wanted for V5, changing `SetAssetClaimer` to be just one
-of many possible "hints" that you can specify at the beginning of your
-program to change its behaviour.
-
-This makes it easier to add new hints in the future and have barriers
-accept them.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Jan 2025, 18:32:09</div>
                             </section>
                         </div>
                     </section>
