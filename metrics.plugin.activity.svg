@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1477" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1811" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,434 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 81 commits in
+                                        <span class="repo">aurexav/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1396a75</div>
+                                        <div class="message">[Release|CI/CD] Update runtime artefact's name before upload to a GitHub draft release (#7814)
+
+This PR is an improvement of the Create Release Draft workflow. Due to
+the switch to the direct use of `gh` to upload artefacts to the release
+draft, behaviour of it has slightly changed. `gh` renames only a display
+name of the file but not the file it self.
+This pr adds renaming before the upload so that displayed name of the
+attachment and the file itself have the same name that includes
+`spec_version` in it.
+
+Closes: https://github.com/paritytech/release-engineering/issues/250
+
+cc: @BulatSaif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce5f89c</div>
+                                        <div class="message">Ensure Logs Are Captured for Assertions and Printed During Tests (#7769)
+
+This PR enhances **`test_log_capture`**, ensuring logs are **captured
+for assertions** and **printed to the console** during test execution.
+
+## **Motivation**  
+
+- Partially addresses #6119 and #6125, to improves developer **tracing
+and debugging** in XCM-related tests.
+- Builds on #7594, improving **log visibility** while maintaining test
+**log capture capabilities**.
+- While writing tests for #7234, I noticed this function was missing.
+This PR adds it to streamline log handling in unit tests.
+
+## **Changes**  
+
+- Ensures logs up to `TRACE` level are **captured** (for assertions) and
+**printed** (for visibility).
+- Refines documentation to clearly specify **when to use** each
+function.
+- **Removes ANSI escape codes** from captured logs to ensure clean,
+readable assertions.
+
+## **When to Use?**  
+
+| Usage | Captures Logs? | Prints Logs? | Example |
+
+|----------------------------------------------|-----------------|--------------|-----------------------------------------------|
+| `init_log_capture(LevelFilter::INFO, false)` | ✅ Yes | ❌ No | Capture
+logs for assertions without printing. |
+| `init_log_capture(LevelFilter::TRACE, true)` | ✅ Yes | ✅ Yes | Capture
+logs and print them in test output. |
+| `sp_tracing::init_for_tests()` | ❌ No | ✅ Yes | Print logs to the
+console without capturing. |
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f02134c</div>
+                                        <div class="message">Dynamic uncompressed code size limit (#7760)
+
+Fixes https://github.com/paritytech/polkadot-sdk/issues/7664
+
+The discussion in https://github.com/paritytech/polkadot-sdk/pull/7710
+should provide the context for why this solution was picked.
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbc0faa</div>
+                                        <div class="message">[pallet-revive] eth-rpc-tester quick fixes (#7818)
+
+Small tweaks to the eth-rpc-tester bin
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00d8eea</div>
+                                        <div class="message">pallet-scheduler: Put back postponed tasks into the agenda (#7790)
+
+Right now `pallet-scheduler` is not putting back postponed tasks into
+the agenda when the early weight check is failing. This pull request
+ensures that these tasks are put back into the agenda and are not just
+"lost".
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: Guillaume Thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: Alexandre R. Baldé &lt;alexandre.balde@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#945e5fe</div>
+                                        <div class="message">ci: update credentials for command-backport (#7798)
+
+close https://github.com/paritytech/ci_cd/issues/1114</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dbaeba</div>
+                                        <div class="message">[XCM] add generic location to account converter that also works with external ecosystems (#7313)
+
+I added a new `ExternalConsensusLocationsConverterFor` struct to handle
+external global consensus locations and their child locations.
+This struct extends the functionality of existing converters
+(`GlobalConsensusParachainConvertsFor` and
+`EthereumLocationsConverterFor`) while maintaining backward
+compatibility.
+
+Fixes https://github.com/paritytech/polkadot-sdk/issues/7129
+
+Polkadot address: 121HJWZtD13GJQPD82oEj3gSeHqsRYm1mFgRALu4L96kfPD1
+
+---------
+
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;
+Co-authored-by: ndk &lt;ndk@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a814f55</div>
+                                        <div class="message">[AHM] Make more stuff public (#7802)
+
+Make some more stuff public that will be useful for AHM to reduce code
+duplication.
+
+---------
+
+Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a8061e</div>
+                                        <div class="message">Support adding extra request-response protocols to the node (#7708)
+
+Allow adding extra request-response protocols during polkadot service
+initialization. This is required to add a request-response protocol
+described in
+[RFC-0008](https://polkadot-fellows.github.io/RFCs/approved/0008-parachain-bootnodes-dht.html)
+to the relay chain side of the parachain node.
+
+### Review notes
+The PR might look scary due to a lot of code being moved. It is easier
+to review it on a per-commit basis. The commits do not containing
+changes to the code logic are named accordingly.
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7db67f3</div>
+                                        <div class="message">notifications/tests: Fix tests to avoid overflow on adding duration to instant (#7793)
+
+The tokio instant timer produced an overflow when the `poll_tick` was
+called because the timer period was set to `u64::max`. The period is
+reduced to accommodate for the following tokio time addition:
+
+
+Source code
+[tokio/time/interval.rs](https://github.com/tokio-rs/tokio/blob/a2b12bd5799f06e912b32ac05a5ffb5cf1fe31cd/tokio/src/time/interval.rs#L478-L485):
+```rust
+        let next = if now &gt; timeout + Duration::from_millis(5) {
+            self.missed_tick_behavior
+                .next_timeout(timeout, now, self.period)
+        } else {
+            timeout
+                .checked_add(self.period)
+                .unwrap_or_else(Instant::far_future)
+        };
+```
+
+
+Detected by:
+https://github.com/paritytech/polkadot-sdk/actions/runs/13648141251/job/38150825582?pr=7790
+
+
+```
+──── TRY 1 STDERR:       sc-network protocol::notifications::tests::conformance::litep2p_disconnects_libp2p_substream
+thread 'protocol::notifications::tests::conformance::litep2p_disconnects_libp2p_substream' panicked at std/src/time.rs:417:33:
+overflow when adding duration to instant
+stack backtrace:
+   0: rust_begin_unwind
+   1: core::panicking::panic_fmt
+   2: core::option::expect_failed
+   3: &lt;std::time::Instant as core::ops::arith::Add&lt;core::time::Duration&gt;&gt;::add
+   4: tokio::time::interval::Interval::poll_tick
+   5: sc_network::protocol::notifications::tests::conformance::litep2p_disconnects_libp2p_substream::{{closure}}
+   6: tokio::runtime::scheduler::current_thread::Context::enter
+   7: tokio::runtime::context::scoped::Scoped&lt;T&gt;::set
+   8: tokio::runtime::scheduler::current_thread::CurrentThread::block_on
+   9: tokio::runtime::runtime::Runtime::block_on
+  10: sc_network::protocol::notifications::tests::conformance::litep2p_disconnects_libp2p_substream
+  11: core::ops::function::FnOnce::call_once
+```
+
+cc @paritytech/networking
+
+Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9100d24</div>
+                                        <div class="message">pallet revive: rpc build script should not panic (#7786)
+
+This can error when you use `cargo remote` and probably also with `cargo
+vendor`.
+Still seeing two more build errors, but at least this one is fixed.
+
+Other one:
+```pre
+error: set `DATABASE_URL` to use query macros online, or run `cargo sqlx prepare` to update the query cache
+   --&gt; substrate/frame/revive/rpc/src/receipt_provider/db.rs:123:17
+    |
+123 |               let result = query!(
+    |  __________________________^
+124 | |                 r#"
+125 | |                 INSERT OR REPLACE INTO transaction_hashes (transaction_hash, block_hash, transaction_index)
+126 | |                 VALUES ($1, $2, $3)
+...   |
+130 | |                 transaction_index
+131 | |             )
+```
+
+and (maybe Rust version related, this is 1.84.1)
+```pre
+error[E0282]: type annotations needed
+   --&gt; substrate/frame/revive/rpc/src/receipt_provider/db.rs:102:34
+    |
+102 |         let (tx_result, logs_result) = tokio::join!(delete_transaction_hashes, delete_logs);
+    |                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ cannot infer type
+    |
+    = note: this error originates in the macro `$crate::join` which comes from the expansion of the macro `tokio::join` (in Nightly builds, run with -Z macro-backtrace for more info)
+```
+
+---------
+
+Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22879e1</div>
+                                        <div class="message">pallet-bridge-relayers - migrate benchmarks to v2 (#7531)
+
+resolves #7491</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8d3339</div>
+                                        <div class="message">Migrate pallet-nis benchmark to v2 (#6293)
+
+- Refactor to use the `frame` crate.
+- Use procedural macro version `construct_runtime` in mock.
+- Expose `PalletId` to `frame::pallet_prelude`.
+- Part of #6202.
+
+---
+
+Polkadot address: 156HGo9setPcU2qhFMVWLkcmtCEGySLwNqa3DaEiYSWtte4Y
+
+---------
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac7037e</div>
+                                        <div class="message">Migrating polkadot-runtime-parachains configuration benchmarking to V2 (#6607)
+
+# Description
+Migrating polkadot-runtime-parachains configuration benchmarking to the
+new benchmarking syntax v2.
+This is a part of #6202
+
+---------
+
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: seemantaggarwal &lt;32275622+seemantaggarwal@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b07abee</div>
+                                        <div class="message">[pallet-revive] block.timestamps should return seconds (#7784)
+
+In solidity `block.timestamp` should be expressed in seconds
+see
+https://docs.soliditylang.org/en/latest/units-and-global-variables.html#block-and-transaction-properties
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d9ae34</div>
+                                        <div class="message">Add Serialize &amp; Deserialize to umbrella crate derive module (#7764)
+
+When working with storage types that are to be set in the genesis block,
+deriving serde::Serialize &amp; serde::Deserialize is necessary (to my
+knowledge). This PR introduces Serialize and Deserialize into the
+umbrella crate derive (and indirectly prelude) module, allowing for
+similar access as the other storage value derives.
+
+---------
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9707b7</div>
+                                        <div class="message">[kitchensink] migrate to use genesis presets (#7741)
+
+Last subtask from
+https://github.com/paritytech/polkadot-sdk/issues/5704.
+
+Closes #5704.
+
+The substrate-node is not 100% free of the native runtime yet, but the
+code has become less convoluted and better documented. The final cleanup
+needs https://github.com/paritytech/polkadot-sdk/issues/7748.
+
+---------
+
+Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df99fb9</div>
+                                        <div class="message">Fix unspecified Hash in NodeBlock (#7756)
+
+# Description
+
+Working with https://github.com/paritytech/polkadot-sdk/pull/7556 I
+encountered an internal compiler error on polkadot-omni-node-lib: see
+bellow or [in
+CI](https://github.com/paritytech/polkadot-sdk/actions/runs/13521547633/job/37781894640).
+
+```
+error: internal compiler error: compiler/rustc_traits/src/codegen.rs:45:13: Encountered error `SignatureMismatch(SignatureMismatchData { found_trait_ref: &lt;{closure@sp_state_machine::trie_backend_essence::TrieBackendEssence&lt;sc_service::Arc&lt;dyn sp_state_machine::trie_backend_essence::Storage&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;, &lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing, sp_trie::cache::LocalTrieCache&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;, sp_trie::recorder::Recorder&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;::storage::{closure#1}} as std::ops::FnOnce&lt;(std::option::Option&lt;&amp;mut dyn trie_db::TrieRecorder&lt;sp_core::H256&gt;&gt;, std::option::Option&lt;&amp;mut dyn trie_db::TrieCache&lt;sp_trie::node_codec::NodeCodec&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;&gt;)&gt;&gt;, expected_trait_ref: &lt;{closure@sp_state_machine::trie_backend_essence::TrieBackendEssence&lt;sc_service::Arc&lt;dyn sp_state_machine::trie_backend_essence::Storage&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;, &lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing, sp_trie::cache::LocalTrieCache&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;, sp_trie::recorder::Recorder&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;::storage::{closure#1}} as std::ops::FnOnce&lt;(std::option::Option&lt;&amp;mut dyn trie_db::TrieRecorder&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hash&gt;&gt;, std::option::Option&lt;&amp;mut dyn trie_db::TrieCache&lt;sp_trie::node_codec::NodeCodec&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;&gt;)&gt;&gt;, terr: Sorts(ExpectedFound { expected: Alias(Projection, AliasTy { args: [Alias(Projection, AliasTy { args: [Alias(Projection, AliasTy { args: [NodeSpec/#0], def_id: DefId(0:410 ~ polkadot_omni_node_lib[7cce]::common::spec::BaseNodeSpec::Block), .. })], def_id: DefId(0:507 ~ polkadot_omni_node_lib[7cce]::common::NodeBlock::BoundedHeader), .. })], def_id: DefId(229:1706 ~ sp_runtime[5da1]::traits::Header::Hash), .. }), found: sp_core::H256 }) })` selecting `&lt;{closure@sp_state_machine::trie_backend_essence::TrieBackendEssence&lt;sc_service::Arc&lt;dyn sp_state_machine::trie_backend_essence::Storage&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;, &lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing, sp_trie::cache::LocalTrieCache&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;, sp_trie::recorder::Recorder&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;::storage::{closure#1}} as std::ops::FnOnce&lt;(std::option::Option&lt;&amp;mut dyn trie_db::TrieRecorder&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hash&gt;&gt;, std::option::Option&lt;&amp;mut dyn trie_db::TrieCache&lt;sp_trie::node_codec::NodeCodec&lt;&lt;&lt;&lt;NodeSpec as common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader as sp_runtime::traits::Header&gt;::Hashing&gt;&gt;&gt;)&gt;&gt;` during codegen
+```
+
+Trying to parse the error I found that TrieRecorder was not supposed to
+work with H256:
+- Expected: `&amp;mut dyn TrieRecorder&lt;&lt;&lt;&lt;NodeSpec as
+common::spec::BaseNodeSpec&gt;::Block as common::NodeBlock&gt;::BoundedHeader
+as Header&gt;::Hash&gt;&gt;`
+- Found: `&amp;mut dyn TrieRecorder&lt;sp_core::H256&gt;&gt;`
+
+The error happened because I added to
+`new_full_parts_with_genesis_builder` interaction with Trie Cache which
+eventually uses `TrieRecorder&lt;H256&gt;`. Here is the path:
+- In polkadot-omni-node-lib trait BaseNodeSpec defined with Block as
+`NodeBlock: BlockT&lt;Hash = DbHash&gt;`, where DbHash is H256.
+- BaseNodeSpec calls [new_full_parts_record_import::&lt;Self::Block, …
+&gt;](https://github.com/paritytech/polkadot-sdk/blob/75726c65d40d3631c441b946a26b2f0b30d40c26/cumulus/polkadot-omni-node/lib/src/common/spec.rs#L184-L189)
+and eventually it goes to
+[new_full_parts_with_genesis_builder](https://github.com/paritytech/polkadot-sdk/blob/08b302464a6ccaacf391516ff7b058fe07b5cca3/substrate/client/service/src/builder.rs#L195).
+- In `new_full_parts_with_genesis_builder` we accessed storage,
+initiating TrieRecorder with H256 what never happened before.
+
+I believe the compiler found a mismatch checking types for TrieRecorder:
+NodeBlock inherits from the trait `Block&lt;Hash = DbHash&gt;`, but it uses
+BoundedHeader, which inherits from the trait Header with the default
+Hash.
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b39ff0</div>
+                                        <div class="message">revive: Rework the instruction benchmark (#7721)
+
+Fixes https://github.com/paritytech/polkadot-sdk/issues/6157
+
+This fixes the last remaining benchmark that was not correct since it
+was too low level to be written in Rust. Instead, we opted.
+
+This PR changes the benchmark that determines the scaling from
+`ref_time` to PolkaVM `Gas` by benchmarking the absolute worst case of
+an instruction: One that causes two cache misses by touching two cache
+lines.
+
+The Contract itself is designed to be as simple as possible. It does
+random unaligned reads in a loop until the `r` (repetition) number is
+reached. The randomness is fully generated by the host and written to
+the guests memory before the benchmark is run. This allows the benchmark
+to determine the influence of one loop iteration via linear regression.
+
+---------
+
+Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: xermicus &lt;cyrill@parity.io&gt;
+Co-authored-by: PG Herveou &lt;pgherveou@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3798ff7</div>
+                                        <div class="message">Remove `pallet::getter` usage from `pallet-nft-fractionalization` (#7124)
+
+Description
+Part of #3326
+As per title, `pallet::getter` usage has been removed from
+`pallet-nft-fractionalization`.
+
+---------
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Mar 2025, 17:19:00</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -386,24 +814,6 @@ Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-secur
                                     <div>opened  in <span class="repo">ringecosystem/gov-helper</span></div>
                                 </div>
                                 <div class="timestamp">20 Mar 2025, 07:52:17</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#2 [GOV] Runtime Upgrade 7000 (TEST2)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ringecosystem/gov-helper</span></div>
-                                </div>
-                                <div class="timestamp">20 Mar 2025, 07:46:18</div>
                             </section>
                         </div>
                     </section>
