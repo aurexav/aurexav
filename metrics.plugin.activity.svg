@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2056" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1730" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#31142 Minimap's `current_line_highlight` has no effect.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by aurexav in <span class="repo">zed-industries/zed</span></div>
+                                    <div class="comment">Some themes don't adapt for this. Default themes work well.</div>
+                                </div>
+                                <div class="timestamp">22 May 2025, 02:50:43</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#31142 Minimap's `current_line_highlight` has no effect.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">zed-industries/zed</span></div>
+                                </div>
+                                <div class="timestamp">22 May 2025, 02:50:42</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -448,124 +484,6 @@ Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">19 May 2025, 13:58:55</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">aurexav/aurexav</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0507df3</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 May 2025, 04:26:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 73 commits in
-                                        <span class="repo">aurexav/aurexav</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d9e414</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97da046</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bef5f35</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57db0dc</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18928a1</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a77b63</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b8b4c2</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daad497</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8055979</div>
-                                        <div class="message">Update metrics.plugin.isocalendar.fullyear.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#646566c</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c243ba0</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#752dc1e</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58ec3ed</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96fa72b</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a0f5ba</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8762252</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#783744a</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d37b1a2</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b4fb55</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c24a64f</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 May 2025, 04:25:26</div>
                             </section>
                         </div>
                     </section>
