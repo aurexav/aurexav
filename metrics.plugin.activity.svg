@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2892" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ringecosystem/degov-apps</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/release-main-page</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3fd9597</div>
+                                        <div class="message">Remove unused DAO skeleton components and update Home component to handle loading state more effectively</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jun 2025, 18:56:16</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1728,103 +1749,6 @@ Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.c
                                     </div>
                                 </div>
                                 <div class="timestamp">14 Jun 2025, 17:48:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">aurexav/aurexav</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a3eb4a</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10379cb</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#399d21e</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c73573b</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e541a1d</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7cf41f</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbcd8b3</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c15721</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a80fec</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac6de95</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#891b694</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e0177c</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92f8263</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7622cff</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91a38fb</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb426cb</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f373820</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78624c5</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1200d7e</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53320db</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jun 2025, 17:46:54</div>
                             </section>
                         </div>
                     </section>
