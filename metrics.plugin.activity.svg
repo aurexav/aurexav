@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2892" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2193" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,78 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.1.4</span>
+                                        in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:08:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">`v0.1.4`</span>
+                                        in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:08:22</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">`v0.1.4`</span>
+                                        in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:08:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#528913e</div>
+                                        <div class="message">`v0.1.4`</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:05:17</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1161,594 +1233,6 @@ current stable release back to master</div>
                                     <div>opened  in <span class="repo">qdrant/rust-client</span></div>
                                 </div>
                                 <div class="timestamp">16 Jun 2025, 10:18:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">qdrant/qdrant</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Jun 2025, 14:37:25</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">aurexav/aurexav</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ad19c81</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jun 2025, 18:00:20</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">aurexav/aurexav</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbbc495</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#383c810</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7754c0f</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aeb0f8</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c0aba8</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d256aca</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8a2dd2</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40ce83c</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4717287</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc8c67c</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f06f96</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40f6f9d</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6ab7d0</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24d1593</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88e021c</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cac39e</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b54b75</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc962cf</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4c045d</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bb47e9</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jun 2025, 17:58:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 81 commits in
-                                        <span class="repo">aurexav/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">auto-retry</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#38b7581</div>
-                                        <div class="message">CI: Enforce SemVer restrictions on backport PRs with optional override via `validate: false` (#8632)
-
-This PR enforces SemVer policies on backport branches by ensuring crate
-version bumps in `.prdoc` files are limited to `minor`, `patch`, or
-`none` unless explicitly overridden.
-
-## Key Points
-
-* Backport PRs targeting stable branches must restrict crate bumps to
-`minor`, `patch`, or `none` to maintain stability.
-* `major` bumps are disallowed unless explicitly overridden by adding
-`validate: false` to the crate entry in `prdoc/pr_$PR.prdoc`.
-* Developers must also provide a justification in the PR description
-when using `validate: false`.
-* The CI validates that any `major` bump is only allowed if accompanied
-by `validate: false`; otherwise, the backport check fails with a clear
-error message.
-
-This validation prevents accidental inclusion of breaking changes in
-backports while allowing informed exceptions with documented
-justification.
-
-To summarise the logic:
-
-| bump level | validate | backport result |
-|------------|----------|-----------------|
-| none       | (nil)    | allowed         |
-| patch      | (nil)    | allowed         |
-| minor      | (nil)    | allowed         |
-| major      | false    | allowed         |
-| major      | (nil)    | failed          |
-
-Closes: #8629
-
----------
-
-Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7e6f15</div>
-                                        <div class="message">collator-protocol-revamp: temporary memory db impl for reputations (#8242)
-
-Stacked on top of: https://github.com/paritytech/polkadot-sdk/pull/8191
-
-Implements an in-memory reputation "DB" for testing purposes.
-This way, we can test the entire implementation while the DB is still
-being developed (enables parallelization of development tasks) and have
-some unit tests that validate it works as expected.
-
-The entire new subsystem is feature-gated, so not included in the
-release binaries.
-
-Proper DB impl tracked by
-https://github.com/paritytech/polkadot-sdk/issues/7751</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b7439</div>
-                                        <div class="message">Implement Proof Of Possession capability for all public key crypto types (#6010)
-
-- Implement `ProofOfPossession` traits with default implementation.
-- Implement their derive macro in a new proc-macro crate in
-`pubkeycrypto` create which eventually should contains all pubkey crypto
-scheme as recommended by #1975
-- Derive ProofOfPossession for all pubkey crypto type beside BLS.
-
-- [x] Implement Nugget BLS proof of possession which should certifies
-that the unique secret key known to the prover is used to generate both
-public keys in G1 and G2.
-- [x] Implement sign Host function for BLS12-381 necessary to be able to
-generate proof of possion through runtime.
-- [x] Implement generation and verification of proof of possession
-functions in all RuntimeApp and RuntimeAppPublic s.
-
----------
-
-Co-authored-by: Andrew Burger &lt;andrewburger1991@gmail.com&gt;
-Co-authored-by: Davide Galassi &lt;davxy@datawok.net&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5f8668</div>
-                                        <div class="message">Shared Add ethereum-standards crate (#8679)
-
-Shared PR that adds ethereum-standards crate used by upcoming #7762 and
-#8365
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b5a9ad</div>
-                                        <div class="message">asset-hub-westend: use inmemorydb weights (#8359)
-
-Modify asset-hub-westend to use the read/write costs in validate block
-on validator reference hardware, since these are
-weights that guarantee the blocks will pass validation and make it on
-the relay chain.
-
-This were obtained with the benchmark created here:
-https://github.com/paritytech/polkadot-sdk/pull/8069 and it contains all
-the optimisation brought by
-https://github.com/paritytech/polkadot-sdk/pull/8607.
-
-Fixes: https://github.com/paritytech/polkadot-sdk/issues/7537
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10cde1f</div>
-                                        <div class="message">Add trie cache warmup (#7556)
-
-# Description
-Fixes https://github.com/paritytech/polkadot-sdk/issues/7533.
-
-Part of launching smart contracts on AssetHub. The current task involves
-warming up the state and performing sanity checks to ensure that memory
-usage remains within reasonable limits; otherwise, it should abort
-gracefully.
-
-Here is a breakdown of the task by parts: 
-- **Configuration.** We use a CLI flag to trigger the warm up. To
-increase the cache size, we use an existing flag.
-- **Warm-up.** We populate the trie cache with values from the database
-using a best hash as a storage root. For normal use we spawn a
-background task for it, for testing purposes we warm up in a blocking
-manner.
-- **Sanity checks.** If we find that the configured cache size is too
-large, we warn.
-
-Variants of the added flag:
-| Flag | Meaning |
-
-|---------------------------------|---------------------------------------------|
-| [no flag] | no warm-up |
-| warm-up-trie-cache | non-blocking warmup |
-| warm-up-trie-cache non-blocking | non-blocking warmup (same as just
-the flag) |
-| —warm-up-trie-cache blocking | blocking warmup |
-
-## Integration
-Tested on a snapshot from polkadot-asset-hub: 5426064 keys, ~900MIB
-state. Populating Trie cache takes 1.5–2 minutes on Macbook Pro M2.
-
-## Aditional Notes
-Initially, we thought about putting the entire state into memory using a
-CLI flag or a runtime parameter, but decided against it. That’s up to
-collators to decide on which setup run their machines, they can use the
-current cache size setting to increase the throughput.
-
-## Todos
-Testing moved to https://github.com/paritytech/polkadot-sdk/pull/8644
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-Co-authored-by: Alexandru Gheorghe &lt;49718502+alexggh@users.noreply.github.com&gt;
-Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4baf234</div>
-                                        <div class="message">Bump memory-db (#8607)
-
-Bump memory-db to pick up
-https://github.com/paritytech/polkadot-sdk/pull/8606 and
-https://github.com/paritytech/trie/pull/221
-
-Additionally, polkavm needs to be bumped to get rid of to get rid of
-https://github.com/paritytech/polkadot-sdk/actions/runs/15180236627/job/42688141374#step:5:1869
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dc1337</div>
-                                        <div class="message">cumulus-aura: Improve equivocation checks (#8669)
-
-Instead of just checking for the slot, we also take the block number and
-the relay parent into account (as we actually allow to build multiple
-blocks per slot). Then this pr also ensures that we are still able to
-import blocks from availability recovery. This ensures that a network
-doesn't get stuck on a storm of equivocations. The next step after this
-pull request would be to implement on chain slashing for equivocations
-and probably disabling of the offending author.
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6f48bf</div>
-                                        <div class="message">revive: Simplify the storage meter (#8667)
-
-Historically, the collection of storage deposits was running in an
-infallible context. Meaning we needed to make sure that the caller was
-able to pay the deposits when the last contract execution returns. To
-achieve that, we capped the storage deposit limit to the maximum balance
-of the origin. This made the code more complex: It conflated the deposit
-**limit** with the amount of balance the origin has.
-
-In the meantime, we changed code around to make the deposit collection
-fallible. But never changed this aspect.
-
-This PR rectifies that by doing:
-- The root storage meter and all its nested meter's limits are
-completely independent of the origin's balance. This makes it way easier
-to argue about the limit that a nested meter has at any point.
-- Consistently use `StorageDepositNotEnoughFunds` (limit not reached)
-and `StorageDepositLimitExhausted` (limit reached).
-- Origin not being able to pay the ed for a new account is now
-`StorageDepositNotEnoughFunds` and traps the caller rather then being a
-`TransferFailed` return code. Important since we are hiding the ed from
-contracts. So it should also not be an error code that must be handled.
-
-Im preparation for:
-https://github.com/paritytech/contract-issues/issues/38
-
----------
-
-Co-authored-by: xermicus &lt;cyrill@parity.io&gt;
-Co-authored-by: PG Herveou &lt;pgherveou@gmail.com&gt;
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73a0bca</div>
-                                        <div class="message">[pallet-revive] impl_revive_api macro (#8652)
-
-Move pallet-revive runtime api implementation in a macro, so that we
-don't repeat the code for every runtime.
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4956d8b</div>
-                                        <div class="message">Docker tags fix (#8643)
-
-Fix different commit sha for google registry and docker hub images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4635762</div>
-                                        <div class="message">[pallet-revive] Fix rpc-types (#8664)
-
-Update rpc-types
-- Remove unnecessary derive traits
-- Fix json decoding for `BlockNumberOrTagOrHash`
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64aed49</div>
-                                        <div class="message">Snowbridge: Remove asset location check for compatibility (#8473)
-
-The `TokenIdOf`
-[convert](https://github.com/paritytech/polkadot-sdk/blob/4b83d24f4bc96a7b17964be94b178dd7b8f873b5/bridges/snowbridge/primitives/core/src/location.rs#L40)
-is XCM version-agnostic, meaning we will get the same token ID for both
-V5 and legacy V4 asset.
-
-However, the extra check is unnecessary, as
-the`ConvertAssetId::convert(&amp;token_id).ok_or(InvalidAsset)?;` alone is
-sufficient to verify whether the token is registered.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b224d3</div>
-                                        <div class="message">add poke_deposit extrinsic to pallet-bounties (#8382)
-
-# Description
-
-* This PR adds a new extrinsic `poke_deposit` to `pallet-bounties`. This
-extrinsic will be used to re-adjust the deposits made in the pallet to
-create a new bounty.
-* Part of #5591 
-
-## Review Notes
-
-* Added a new extrinsic `poke_deposit` in `pallet-bounties`.
-* This extrinsic checks and adjusts the deposits made for creating a
-bounty.
-* Added a new event `DepositPoked` to be emitted upon a successful call
-of the extrinsic.
-* Although the immediate use of the extrinsic will be to give back some
-of the deposit after the AH-migration, the extrinsic is written such
-that it can work if the deposit decreases or increases (both).
-* The call to the extrinsic would be `free` if an actual adjustment is
-made to the deposit and `paid` otherwise (when no deposit is changed).
-* Added tests to test all scenarios.
-* Added benchmarks
-
-## TO-DOs
-* [x] Run CI cmd bot to benchmark
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82b4db</div>
-                                        <div class="message">litep2p/peerset: Reject non-reserved peers in the reserved-only mode (#8650)
-
-This PR rejects non-reserved peers in the reserved-only mode of the
-litep2p notification peerset.
-
-Previously, litep2p ignored completely the reserved-only state while
-accepting inbound connections. However, it handled it properly during
-the slot allocation phase.
-- the main changes are in the `report_inbound_substream` function, which
-now propagated a `Rejected` response to litep2p on the reserved-only
-state
-- in response, litep2p should never open an inbound substream after
-receiving the rejected response
-- the state of peers is not advanced while in `Disconnected` or
-`Backoff` states
-  - the opening state is moved to `Cancelled` 
-- for consistency purposes (and fuzzing purposes), the
-`report_substream_opened` is more robustly handling the `Disconnected`
-state
-- while at it have replaced a panic with `debug_assert` and an instant
-reject
-  
-## Testing Done
-- started 2 nodes in Kusama and Polkadot with litep2p
-- added the `reserved_only_rejects_non_reserved_peers` test to ensure
-litep2p handles peers properly from different states
-
-
-This PR has been extracted from
-https://github.com/paritytech/polkadot-sdk/pull/8461 to ease the review
-process
-
-cc @paritytech/networking
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-Co-authored-by: Dmitry Markin &lt;dmitry@markin.tech&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1428b0</div>
-                                        <div class="message">Charge deposit based on key length (#8648)
-
-We were only charging storage deposit based on value length but not
-based on key length. Since we allow for variable length keys this has to
-be done. Needs to be back ported since changing this in an already
-deployed system will be nasty.
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2102fdf</div>
-                                        <div class="message">[pallet-revive] make subscription task panic on error (#8587)
-
-- subscription task are "essential tasks" and the service should go down
-when they fail.
-- Upgrade subxt to 0.41
-- Update zombienet-sdk to use the subxt re-export of subxt so it does
-not conflict with the workspace version
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d1782e</div>
-                                        <div class="message">tx/metrics: Add metrics for the RPC v2 `transactionWatch_v1_submitAndWatch` (#8345)
-
-This PR adds metrics for the following RPC subscription:
-[transactionWatch_v1_submitAndWatch](https://paritytech.github.io/json-rpc-interface-spec/api/transactionWatch_v1_submitAndWatch.html)
-
-Metrics are exposed in two ways:
-- simple counters of how many events we've seen globally
-- a histogram vector of execution times, which is labeled by `initial
-event` -&gt; `final event`
-- This helps us identify how long it takes the transaction pool to
-advance the state of the events, and further debug issues
-  
-Part of: https://github.com/paritytech/polkadot-sdk/issues/8336
-
-### (outdated) PoC Dashboards
-
-![Screenshot 2025-04-28 at 17 50
-48](https://github.com/user-attachments/assets/9fd0bf30-a321-4362-a10b-dfc3de1eb474)
-
-
-### Next steps
-- [x] initial dashboards with a live node
-- [x] adjust testing
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2174ff</div>
-                                        <div class="message">Bridges: Fix - Improve try-state for pallet-xcm-bridge-hub (#8615)
-
-Fixing https://github.com/paritytech/polkadot-sdk/issues/8215 based on
-https://github.com/paritytech/polkadot-sdk/issues/8185: Improve
-try-state for pallet-xcm-bridge-hub
-
-It removes try_as and uses try_into implementation instead.
-
----------
-
-Co-authored-by: Branislav Kontur &lt;bkontur@gmail.com&gt;
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d1883f</div>
-                                        <div class="message">Introduce CreateBare, deprecated CreateInherent (#7597)
-
-Rename `CreateInherent` to `CreateBare`, add method `create_bare` and
-deprecate `create_inherent`.
-Both unsigned transaction and inherent use the extrinsic type `Bare`.
-Before this PR `CreateInherent` trait was use to generate unsigned
-transaction, now unsigned transaction can be generated using a proper
-trait `CreateBare`.
-How to upgrade:
-* Change usage of `CreateInherent` to `CreateBare` and `create_inherent`
-to `create_bare`.
-* Implement `CreateBare` for the runtime, the method `create_bare` is
-usually implemented using `Extrinsic::new_bare`.
-
----------
-
-Co-authored-by: cmd[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jun 2025, 17:48:05</div>
                             </section>
                         </div>
                     </section>
