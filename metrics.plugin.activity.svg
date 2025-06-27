@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1843" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,63 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.1.4</span>
+                                        in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:30:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">v0.1.4</span>
+                                        in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:30:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/openagent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ddb9794</div>
+                                        <div class="message">`v0.1.4`
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2025, 16:30:32</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -847,392 +904,6 @@ However, manually calling
                                     </div>
                                 </div>
                                 <div class="timestamp">19 Jun 2025, 09:49:03</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1599 commits in
-                                        <span class="repo">darwinia-network/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a14285</div>
-                                        <div class="message">substrate-offchain: upgrade hyper to v1 (#5919)
-
-Closes #4896</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e99621</div>
-                                        <div class="message">`RuntimeGenesiConfig`: json macro added (#5813)
-
-This PR adds `build_struct_json_patch` which helps to generate a JSON
-used for preset.
-
-Here is doc and example:
-
-https://github.com/paritytech/polkadot-sdk/blob/d868b858758d3886d16c8ba8feb3c93c188044f3/substrate/frame/support/src/generate_genesis_config.rs#L168-L266
-
-And real-world usage:
-
-https://github.com/paritytech/polkadot-sdk/blob/d868b858758d3886d16c8ba8feb3c93c188044f3/cumulus/parachains/runtimes/assets/asset-hub-rococo/src/genesis_config_presets.rs#L37-L61
-
-Closes #5700
-
----------
-
-Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d7181c</div>
-                                        <div class="message">pallet-message-queue: Fix max message size calculation (#6205)
-
-The max size of a message should not depend on the weight left in a
-given execution context. Instead the max message size depends on the
-service weights configured for the pallet. A message that may does not
-fit into `on_idle` is not automatically overweight, because it may can
-be executed successfully in `on_initialize` or in another block in
-`on_idle` when there is more weight left.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0596928</div>
-                                        <div class="message">Fix a tiny typo (#6229)
-
-Just fix a tiny typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#860d93b</div>
-                                        <div class="message">Disable tests reported in #6062  (#6064)
-
-Flaky tests reported in
-
-#6062
-#6063 (already fixed)
-
-Thx!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68af85e</div>
-                                        <div class="message">pallet macro: Support instantiable pallets in tasks (#5194)
-
-Fix https://github.com/paritytech/polkadot-sdk/issues/5185
-
-also implement handling of attr in expansion in construct-runtime
-
----------
-
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0df223</div>
-                                        <div class="message">Enable approval-voting-parallel by default on kusama (#6218)
-
-The approval-voting-parallel introduced with
-https://github.com/paritytech/polkadot-sdk/pull/4849 has been tested on
-`versi` and approximately 3 weeks on parity's existing kusama nodes
-https://github.com/paritytech/devops/issues/3583, things worked as
-expected, so enable it by default on all kusama nodes in the next
-release.
-
-The next step will be enabling by default on polkadot if no issue
-arrises while running on kusama.
-
----------
-
-Signed-off-by: Alexandru Gheorghe &lt;alexandru.gheorghe@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5682f9a</div>
-                                        <div class="message">Snowbridge: PNA Audit Better Documentation and minor Refactorings (#6216)
-
-# Description
-
-Snowbridge PNA has been audited. A number of issues where raised due to
-not understanding the fee model for Polkadot Native Assets(PNA)
-implementation. This PR addresses this by adding more comments and
-better naming of private functions.
-
-## Integration
-
-None, documentation and private method name changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9c3172</div>
-                                        <div class="message">Added Trusted Query API implementation for Westend and Rococo relay chains (#6212)
-
-Added missing API methods to Rococo and Westend parachains.
-Preparatory work for making chopstick tests run smoothly.
-Follow-up of
-[PR#6039](https://github.com/paritytech/polkadot-sdk/pull/6039)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4b01ad</div>
-                                        <div class="message">[pallet-revive] fix hardcoded gas in tests (#6192)
-
-Fix hardcoded gas limits in tests
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2324bd7</div>
-                                        <div class="message">Fix `zombienet-bridges-0001-asset-transfer-works` (#6175)
-
-Closes https://github.com/paritytech/polkadot-sdk/issues/6161
-
-Westend BridgeHub freezes for a while at block 3 and if we try to init
-the bridge and fund the accounts during that time, it fails. So we wait
-untill all the parachains produced at least 10 blocks, in order to make
-sure that they work reliably.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc486e5</div>
-                                        <div class="message">Polkadot OmniNode Docs (#6094)
-
-provides low-level documentation on how the omni-node is meant to work.
-This is meant to act as reusable material for other teams (e.g.
-Papermoon and W3F) to use and integrate into the high level Polkadot
-documentation.
-
-Broadly speaking, for omni-node to have great rust-docs, we need to
-focus on the following crates, all of which got a bit of love in this
-PR:
-
-1. `sp-genesis-builder`
-2. `polkadot-omni-node`
-3. `polkadot-omni-node-lib`
-4. `frame-omni-bencher`
-
-On top of this, we have now: 
-
-* `polkadot_sdk_docs::guides` contains two new steps demonstrating the
-most basic version of composing your pallet, putting it into a runtime,
-and putting that runtime into omni-node
-* `polkadot_sdk_docs::reference_docs::omni_node` to explain in more
-detail how omni-node differs from the old-school node.
-* `polkadot_sdk_docs::reference_docs::frame_weight_benchmarking` to
-finally have a minimal reference about weights and benchmarking.
-* It provides tests for some of the steps in
-https://github.com/paritytech/polkadot-sdk/issues/5568
-
-
-closes https://github.com/paritytech/polkadot-sdk/issues/5568
-closes https://github.com/paritytech/polkadot-sdk/issues/4781
-
-Next steps
-
-- [x] Ensure the README of the parachain template is up-to-date.
-@iulianbarbu
-- [ ] Readme for `polkadot-omni-node` and similar is updated. For now,
-use `cargo-readme` and copy over the rust-docs.
-
-To build the branch locally and run this:
-https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/meta_contributing/index.html#how-to-develop-locally
-
----------
-
-Co-authored-by: Iulian Barbu &lt;14218860+iulianbarbu@users.noreply.github.com&gt;
-Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;
-Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed23182</div>
-                                        <div class="message">[pallet-revive] Add pallet to AH westend (#5502)
-
-Add pallet-revive to Westend runtime, and configure the runtime to
-accept Ethereum signed transaction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4732ad</div>
-                                        <div class="message">Assets in pool with native can be used in `query_weight_to_asset_fee` (#6080)
-
-A follow-up to https://github.com/paritytech/polkadot-sdk/pull/5599.
-Assets in a pool with the native one are returned from
-`query_acceptable_payment_assets`. Now those assets can be used in
-`query_weight_to_asset_fee` to get the correct amount that needs to be
-paid.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6418131</div>
-                                        <div class="message">Use bool::then instead of then_some with function calls (#6156)
-
-I noticed that hardware benchmarks are being run even though we pass the
---no-hardware-benchmarks cli flag. After some debugging, the cause is an
-incorrect usage of the `then_some` method.
-
-From [std
-docs](https://doc.rust-lang.org/std/primitive.bool.html#method.then_some):
-
-&gt; Arguments passed to then_some are eagerly evaluated; if you are
-passing the result of a function call, it is recommended to use
-[then](https://doc.rust-lang.org/std/primitive.bool.html#method.then),
-which is lazily evaluated.
-
-```rust
-let mut a = 0;
-let mut function_with_side_effects = || { a += 1; };
-
-true.then_some(function_with_side_effects());
-false.then_some(function_with_side_effects());
-
-// `a` is incremented twice because the value passed to `then_some` is
-// evaluated eagerly.
-assert_eq!(a, 2);
-```
-
-This PR fixes all the similar usages of the `then_some` method across
-the codebase.
-
-polkadot address: 138eUqXvUYT3o4GdbnWQfGRzM8yDWh5Q2eFrFULL7RAXzdWD
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
-Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77836cf</div>
-                                        <div class="message">`fatxpool`: `LocalTransactionPool` implemented (#6104)
-
-[`LocalTransactionPool`
-trait](https://github.com/paritytech/polkadot-sdk/blob/d5b96e9e7f24adc1799f8e426c5cb69b4f2dbf8a/substrate/client/transaction-pool/api/src/lib.rs#L408-L426)
-is now implemented for `ForkAwareTransactionPool`.
-
-Closes #5493</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aeebf2f</div>
-                                        <div class="message">[pallet-revive] fix fixture build path (#6174)
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: Cyrill Leutwiler &lt;cyrill@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21930ed</div>
-                                        <div class="message">[pallet-revive] Eth RPC integration (#5866)
-
-This PR introduces the necessary changes to pallet-revive for
-integrating with our Ethereum JSON-RPC.
-The RPC proxy itself will be added in a follow up.
-
-## Changes
-
-- A new pallet::call `Call::eth_transact`. This is used as a wrapper to
-accept unsigned Ethereum transaction, valid call will be routed to
-`Call::call` or `Call::instantiate_with_code`
-
-- A custom UncheckedExtrinsic struct, that wraps the generic one usually
-and add the ability to check eth_transact calls sent from an Ethereum
-JSON-RPC proxy.
-- Generated types and traits to support implementing a JSON-RPC Ethereum
-proxy.
-
-## Flow Overview:
-- A user submits a transaction via MetaMask or another
-Ethereum-compatible wallet.
-- The proxy dry run the transaction and add metadata to the call (gas
-limit in Weight, storage deposit limit, and length of bytecode and
-constructor input for contract instantiation)
-- The raw transaction, along with the additional metadata, is submitted
-to the node as an unsigned extrinsic.
-- On the runtime, our custom UncheckedExtrinsic define a custom
-Checkable implementation that converts the unsigned extrinsics into
-checked one
- - It recovers the signer
-- validates the payload, and injects signed extensions, allowing the
-system to increment the nonce and charge the appropriate fees.
-- re-route the call to pallet-revive::Call::call or
-pallet-revive::Call::instantiateWithCode
-
-## Dependencies
-
-- https://github.com/koute/polkavm/pull/188
-
-## Follow up PRs
-- #5926  
-- #6147 (previously #5953)
-- #5502
-
----------
-
-Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;
-Co-authored-by: Cyrill Leutwiler &lt;cyrill@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#356386b</div>
-                                        <div class="message">Fix TrustedQueryApi Error (#6170)
-
-Related to https://github.com/paritytech/polkadot-sdk/issues/6161
-
-This seems to fix the `JavaScript heap out of memory` error encountered
-in the bridge zombienet tests lately.
-
-This is just a partial fix, since we also need to address
-https://github.com/paritytech/polkadot-sdk/issues/6133 in order to fully
-fix the bridge zombienet tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1cf996</div>
-                                        <div class="message">[Backport] Version bumps from stable2409-1 (#6153)
-
-This PR backports regular version bumps and prdocs reordering from the
-current stable release back to master</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jun 2025, 16:16:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#161 [V3]: Credit Data Center</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">helixbox/helixbox-issue-report</span></div>
-                                </div>
-                                <div class="timestamp">17 Jun 2025, 07:31:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#225 Support uuid crate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">qdrant/rust-client</span></div>
-                                </div>
-                                <div class="timestamp">16 Jun 2025, 10:18:10</div>
                             </section>
                         </div>
                     </section>
