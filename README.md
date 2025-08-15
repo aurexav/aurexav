@@ -39,7 +39,7 @@
 
 #### 2020 – 2024 | [Darwinia Team](https://github.com/darwinia-network) | Blockchain Development
 
-- Led core module and cross-chain bridge development and maintenance for Darwinia blockchain ([Darwinia](https://github.com/darwinia-network/darwinia)).
+- Led core module and cross-chain bridge development and maintenance for [Darwinia](https://github.com/darwinia-network/darwinia) blockchain.
 - Directed the migration from Solochain to Parachain, ensuring stable mainnet upgrades.
 - Maintained node and on-chain operational stability, iterating consensus, network, and storage implementations.
 
