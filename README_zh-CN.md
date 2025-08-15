@@ -39,7 +39,7 @@
 
 #### 2020 – 2024 | [Darwinia Team](https://github.com/darwinia-network) | 区块链开发
 
-- 主导 Darwinia 公链核心模块与跨链桥的研发与维护（详见 [Darwinia](https://github.com/darwinia-network/darwinia)）  
+- 主导 [Darwinia](https://github.com/darwinia-network/darwinia) 公链核心模块与跨链桥的研发与维护
 - 规划并执行 Solochain 向 Parachain 的迁移，确保主网平稳升级  
 - 维护节点与链上运行稳定性，迭代共识、网络与存储相关实现  
 
