@@ -19,8 +19,8 @@
 - 主导 **Solochain → Parachain** 的无缝迁移（主网升级）
 - 独立完成 **3 项 W3F Grants**：[项目索引](https://github.com/hack-ink)
 - 开发 **Bitcoin Atomicals Protocol** 首个 Rust Miner，实现多倍效率提升；社区 GPU Miner 基于此实现：[atomicalsir](https://github.com/hack-ink/atomicalsir)
-- Rust 数组编码库 [array-bytes](https://github.com/hack-ink/array-bytes)：被 9000+ 项目引用，crates.io 下载量 8,000,000+
-- Rust 字符串转译库 [unescaper](https://github.com/hack-ink/unescaper)：被 2000+ 项目引用，crates.io 下载量 6,000,000+，被 OpenZeppelin、Stackware、GreptimeDB、probe-rs、serialport 等采用
+- Rust 数组编码库 [array-bytes](https://github.com/hack-ink/array-bytes)：被 9,000+ 项目引用，crates.io 下载量 8,000,000+
+- Rust 字符串转译库 [unescaper](https://github.com/hack-ink/unescaper)：被 2,000+ 项目引用，crates.io 下载量 6,000,000+，被 OpenZeppelin、Stackware、GreptimeDB、probe-rs、serialport 等采用
 - **AI Agentic Crypto/DeFi 情报系统**：自主研发的链上与交易所多源数据自动化情报采集与分析系统
 
 ## 工作经历
