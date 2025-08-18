@@ -19,8 +19,8 @@
 - Led seamless migration from **Solochain → Parachain** (mainnet upgrade)
 - Independently completed **3 W3F Grants**: [projects index](https://github.com/hack-ink)
 - Created the first Rust miner for **Bitcoin Atomicals Protocol**, achieving multi-fold efficiency gains; community GPU miner was built upon it: [atomicalsir](https://github.com/hack-ink/atomicalsir)
-- Rust array encoding library [array-bytes](https://github.com/hack-ink/array-bytes): used by 9000+ projects, 8,000,000+ downloads on crates.io
-- Rust string escaping library [unescaper](https://github.com/hack-ink/unescaper): used by 2000+ projects, 6,000,000+ downloads on crates.io; adopted by OpenZeppelin, Stackware, GreptimeDB, probe-rs, serialport
+- Rust array encoding library [array-bytes](https://github.com/hack-ink/array-bytes): used by 9,000+ projects, 8,000,000+ downloads on crates.io
+- Rust string escaping library [unescaper](https://github.com/hack-ink/unescaper): used by 2,000+ projects, 6,000,000+ downloads on crates.io; adopted by OpenZeppelin, Stackware, GreptimeDB, probe-rs, serialport
 - **AI Agentic Crypto/DeFi Intelligence System**: autonomous intelligence gathering and analysis from on-chain and exchange data sources (self-developed)
 
 ## Work Experience
