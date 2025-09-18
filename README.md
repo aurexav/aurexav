@@ -55,7 +55,7 @@
 
 - Bitcoin Ecosystem
 - Polkadot Ecosystem
-- Crosschain Bridge
+- Crosschain Bridge (ETH <> Polkadot, OP Rollup)
 - Blockchain Consensus
 - Staking
 - Security Audit
