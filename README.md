@@ -1,7 +1,7 @@
 # Xavier Lau
 
-- GitHub: [aurexav](https://github.com/aurexav) | [hack-ink](https://github.com/hack-ink)  
-- LinkedIn: [Xavier Lau](https://www.linkedin.com/in/xavier-lau-b0655310a)  
+- GitHub: [aurexav](https://github.com/aurexav) | [hack-ink](https://github.com/hack-ink)
+- LinkedIn: [Xavier Lau](https://www.linkedin.com/in/xavier-lau-b0655310a)
 - Nationality: China | Hong Kong
 
 ## Profile
