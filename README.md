@@ -23,7 +23,7 @@
 
 ## Work Experience
 
-### Itering
+### [Itering Tech](https://www.linkedin.com/company/itering/posts/?feedView=all)
 
 #### 2025 – Present | [Helixbox Team](https://github.com/helixbox) | AI Agent Research
 
