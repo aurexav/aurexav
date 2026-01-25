@@ -78,21 +78,21 @@
 
 ## Metrics
 
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="base" width="49%" src="./metrics.base.svg"/>
 </a>
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="isocalendar" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg"/>
 </a>
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="languages" width="49%" src="./metrics.plugin.languages.indepth.svg"/>
 </a>
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="habits" width="49%" src="./metrics.plugin.habits.facts.svg"/>
 </a>
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="notable" width="49%" src="./metrics.plugin.notable.indepth.svg"/>
 </a>
-<a href="https://github.com/AurevoirXavier">
+<a href="https://github.com/aurexav">
   <img align="center" alt="activity" width="49%" src="./metrics.plugin.activity.svg"/>
 </a>
